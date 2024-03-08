@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Leaflet Map</title>
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+    />
+    <style>
+      /* Styling for the map */
+      #map {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        z-index: 0; /* Lower z-index to place the map below the dropdown */
+      }
+
+      /* Styling for the dropdown menu container */
+      .dropdown-container {
+        border: 2px solid #ccc;
+        border-radius: 15px;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 20%;
+        height: 20%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        background-color: rgba(255, 255, 255, 0.5); /* Semi-transparent white background */
+        z-index: 1; /* Higher z-index to place the dropdown above the map */
+      }
+
+      /* Center the form in the dropdown container */
+      #location-form {
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="map"></div>
+    <div class="dropdown-container">
+      <h1>Choose a Location</h1>
+      <form id="location-form">
+        <select id="location-select">
+            <option value="">Select a location</option>
+            <option value="30 Road 7, Gandhinagar">30 Road 7, Gandhinagar</option>
+            <option value="Ch-6, Gandhinagar">Ch-6, Gandhinagar</option>
+            <option value="Ch-5, Gandhinagar">Ch-5, Gandhinagar</option>
+            <option value="Ch Road, Sector 10B, Gandhinagar">Ch Road, Sector 10B, Gandhinagar</option>
+            <option value="Kishan Chowk Bhavan, Gandhinagar">Kishan Chowk Bhavan, Gandhinagar</option>
+            <option value="Nyay Circle Ch-2, Gandhinagar">Nyay Circle Ch-2, Gandhinagar</option>
+            <option value="Ch-0 Indroda Circle, Gandhinagar">Ch-0 Indroda Circle, Gandhinagar</option>
+            <option value="Dholakuva Circle, Gandhinagar">Dholakuva Circle, Gandhinagar</option>
+            <option value="Bhaijipura Circle, Gandhinagar">Bhaijipura Circle, Gandhinagar</option>
+            <option value="Koba Circle, Gandhinagar">Koba Circle, Gandhinagar</option>
+        </select>
+        <button type="submit">Show on Map</button>
+      </form>
+    </div>
+
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>

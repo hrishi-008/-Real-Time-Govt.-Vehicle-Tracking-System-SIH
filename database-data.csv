@@ -1,0 +1,2412 @@
+Timestamp,Latitude,Longitude,Bearing,Type,Defects or Features,RoadName
+"06-09-2020 , 05:23",12.97061963,77.60085545,S,Information,parking_info,Saint Mark's Road
+"06-09-2020 , 05:23",12.97066324,77.60086892,S,Information,parking_info,Bank of India
+"06-09-2020 , 05:22",12.97185284,77.60111622,S,Information,parking_info,Saint Mark's Road
+"06-09-2020 , 05:19",12.97482854,77.60554074,W,Information,parking_info,Church Street
+"06-09-2020 , 05:20",12.97525481,77.60352888,W,Information,parking_info,Bheema's
+"06-09-2020 , 05:20",12.97529315,77.60333457,W,Information,parking_info,Church Street
+"06-09-2020 , 05:20",12.97538441,77.60306386,W,Information,parking_info,Hoppipola
+"06-09-2020 , 05:20",12.97539297,77.60302368,W,Information,parking_info,Hoppipola
+"06-09-2020 , 05:33",12.97700822,77.59909962,N,Information,bus_stop_info,Queen's Road
+"06-09-2020 , 05:11",12.97319217,77.6094601,E,Information,bus_stop_info,FM Cariappa Road (Residency Road)
+"06-09-2020 , 05:39",12.98807918,77.58710121,W,Warning,right_turn_highway_warning,T Chowdiah Road
+"06-09-2020 , 05:40",12.98875383,77.58628372,W,Warning,right_turn_highway_warning,T Chowdiah Road
+"06-09-2020 , 05:36",12.9824011,77.59297128,W,Warning,right_turn_highway_warning,Raj Bhavan Road
+"06-09-2020 , 05:37",12.98321818,77.59183971,W,Warning,road_hump_warning,Raj Bhavan Road
+"06-09-2020 , 05:26",12.96924032,77.59453358,S,Warning,"road_hump_warning,pedestrian_crossing_warning",Vittal Mallya Road
+"06-09-2020 , 05:26",12.97094649,77.59416921,S,Warning,"uneven_road_warning,pedestrian_crossing_warning",Vittal Mallya Road
+"06-09-2020 , 05:21",12.97331329,77.60320524,S,Warning,side_road_junction_warning,Museum Road
+"06-09-2020 , 05:15",12.97202321,77.61253798,N,Warning,school_warning,Primrose Road
+"06-09-2020 , 05:43",12.99929169,77.58416423,N,Warning,pedestrian_crossing_warning,Chowdiah Road
+"06-09-2020 , 05:43",12.99935973,77.58416388,N,Warning,pedestrian_crossing_warning,T Chowdiah Road
+"06-09-2020 , 05:26",12.96924032,77.59453358,S,Warning,"road_hump_warning,pedestrian_crossing_warning",Vittal Mallya Road
+"06-09-2020 , 05:26",12.96931887,77.59451765,S,Warning,pedestrian_crossing_warning,Vittal Mallya Road
+"06-09-2020 , 05:23",12.97048245,77.60081902,S,Warning,pedestrian_crossing_warning,Saint Mark's Road
+"06-09-2020 , 05:26",12.97094649,77.59416921,S,Warning,"uneven_road_warning,pedestrian_crossing_warning",Vittal Mallya Road
+"06-09-2020 , 05:26",12.97101333,77.59415685,S,Warning,pedestrian_crossing_warning,Vittal Mallya Road
+"06-09-2020 , 05:21",12.9731228,77.6032136,S,Warning,pedestrian_crossing_warning,Museum Road
+"06-09-2020 , 05:21",12.97317045,77.60321123,S,Warning,pedestrian_crossing_warning,Museum Road
+"06-09-2020 , 05:07",12.97694801,77.60197472,S,Warning,pedestrian_crossing_warning,Saint Mark's Road
+"06-09-2020 , 05:07",12.97701905,77.60198896,S,Warning,pedestrian_crossing_warning,Saint Mark's Road
+"06-09-2020 , 05:35",12.98070159,77.59732918,N,Warning,pedestrian_crossing_warning,Queen's Road
+"06-09-2020 , 05:14",12.97155221,77.61241014,N,Warning,pedestrian_crossing_warning,Primrose Road
+"06-09-2020 , 05:14",12.97162597,77.61242504,N,Warning,pedestrian_crossing_warning,Primrose Road
+"06-09-2020 , 05:12",12.97236742,77.6107058,S,Warning,pedestrian_crossing_warning,Commissariat Road
+"06-09-2020 , 05:01",12.97770175,77.60734914,E,Warning,uturn_warning,Cubbon Road
+"06-09-2020 , 05:06",12.97771158,77.60694595,W,Warning,uturn_warning,Cubbon Road
+"06-09-2020 , 05:04",12.97547996,77.61401654,E,Warning,uturn_warning,Cubbon Road
+"06-09-2020 , 05:04",12.97600162,77.61214124,W,Warning,uturn_warning,Cubbon Road
+"06-09-2020 , 05:02",12.97631421,77.61153773,E,Warning,uturn_warning,Cubbon Road
+"06-09-2020 , 05:02",12.97650835,77.61098379,E,Warning,uturn_warning,Cubbon Road
+"06-09-2020 , 05:05",12.97736966,77.60801978,W,Warning,uturn_warning,Maniksha Parade Ground
+"06-09-2020 , 05:40",12.9903992,77.58564758,N,Mandatory,no_stopping_mandatory,T Chowdiah Road
+"06-09-2020 , 05:42",12.99374919,77.58502685,N,Mandatory,horn_prohibited_mandatory,Kumara Krupa Road
+"06-09-2020 , 05:42",12.99378376,77.58503943,N,Mandatory,horn_prohibited_mandatory,Kumara Krupa Road
+"06-09-2020 , 05:43",12.99935973,77.58416388,N,Mandatory,horn_prohibited_mandatory,T Chowdiah Road
+"06-09-2020 , 05:26",12.96977116,77.59441609,S,Mandatory,horn_prohibited_mandatory,Mallya Hospital
+"06-09-2020 , 05:26",12.96984633,77.59439864,S,Mandatory,horn_prohibited_mandatory,Mallya Hospital
+"06-09-2020 , 05:25",12.97175314,77.59398683,S,Mandatory,_40_speed_limit_mandatory,Vittal Mallya Road
+"06-09-2020 , 05:22",12.97267953,77.60125333,S,Mandatory,_40_speed_limit_mandatory,Saint Mark's Road
+"06-09-2020 , 05:22",12.9728315,77.60127712,S,Mandatory,_40_speed_limit_mandatory,Saint Mark's Road
+"06-09-2020 , 05:22",12.972879,77.60129973,S,Mandatory,_40_speed_limit_mandatory,Saint Mark's Road
+"06-09-2020 , 05:21",12.97321448,77.60321639,S,Mandatory,stop_mandatory,Museum Road
+"06-09-2020 , 05:21",12.97326614,77.6032147,S,Mandatory,stop_mandatory,Museum Road
+"06-09-2020 , 05:21",12.97331329,77.60320524,S,Mandatory,"stop_mandatory,no_parking_mandatory",Museum Road
+"06-09-2020 , 05:11",12.97224291,77.60710736,S,Mandatory,keep_left_mandatory,Brigade Road
+"06-09-2020 , 05:11",12.97228853,77.6071143,S,Mandatory,keep_left_mandatory,Brigade Road
+"06-09-2020 , 05:28",12.96778176,77.58926413,W,Mandatory,no_left_turn_mandatory,Devanga Hostel Road
+"06-09-2020 , 05:07",12.97701905,77.60198896,S,Mandatory,no_left_turn_mandatory,Saint Mark's Road
+"06-09-2020 , 05:37",12.98393257,77.59002586,W,Mandatory,no_parking_mandatory,Raj Bhavan Road
+"06-09-2020 , 05:39",12.98862451,77.58643196,W,Mandatory,no_parking_mandatory,T Chowdiah Road
+"06-09-2020 , 05:40",12.98887435,77.58614815,W,Mandatory,no_parking_mandatory,T Chowdiah Road
+"06-09-2020 , 05:40",12.98893676,77.58608767,N,Mandatory,no_parking_mandatory,T Chowdiah Road
+"06-09-2020 , 05:42",12.99645778,77.5846589,N,Mandatory,no_parking_mandatory,T Chowdiah Road
+"06-09-2020 , 05:43",13.0004246,77.58410367,N,Mandatory,no_parking_mandatory,Chowdiah Road
+"06-09-2020 , 05:44",13.00234095,77.58409961,N,Mandatory,no_parking_mandatory,Chowdiah Road
+"06-09-2020 , 05:44",13.00389609,77.58408192,N,Mandatory,no_parking_mandatory,Ramana Maharshi Road
+"06-09-2020 , 05:45",13.00463024,77.58403786,N,Mandatory,no_parking_mandatory,Ramana Maharshi Road
+"06-09-2020 , 05:26",12.96760614,77.59490599,S,Mandatory,no_parking_mandatory,Vittal Mallya Road
+"06-09-2020 , 05:23",12.97080143,77.59907004,W,Mandatory,no_parking_mandatory,Vittal Mallya Road
+"06-09-2020 , 05:24",12.97112251,77.59730188,W,Mandatory,no_parking_mandatory,Vittal Mallya Road
+"06-09-2020 , 05:25",12.97112613,77.59679075,W,Mandatory,no_parking_mandatory,Vittal Mallya Road
+"06-09-2020 , 05:25",12.9716565,77.59539989,W,Mandatory,no_parking_mandatory,Vittal Mallya Road
+"06-09-2020 , 05:21",12.97331329,77.60320524,S,Mandatory,"stop_mandatory,no_parking_mandatory",Museum Road
+"06-09-2020 , 05:21",12.97438921,77.60298068,S,Mandatory,no_parking_mandatory,Museum Road
+"06-09-2020 , 05:20",12.97542485,77.60271859,W,Mandatory,no_parking_mandatory,Empire
+"06-09-2020 , 05:08",12.97580817,77.6051779,E,Mandatory,no_parking_mandatory,Mahatma Gandhi Road
+"06-09-2020 , 05:08",12.97606073,77.60411751,E,Mandatory,no_parking_mandatory,Namma Metro Reach-1
+"06-09-2020 , 05:08",12.97619666,77.60350001,E,Mandatory,no_parking_mandatory,Mahatma Gandhi Road
+"06-09-2020 , 05:08",12.9762859,77.60308099,E,Mandatory,no_parking_mandatory,Mahatma Gandhi Road
+"06-09-2020 , 05:07",12.97648632,77.60225479,E,Mandatory,no_parking_mandatory,Mahatma Gandhi Road
+"06-09-2020 , 05:07",12.97657753,77.60206539,E,Mandatory,no_parking_mandatory,Mahatma Gandhi Road
+"06-09-2020 , 05:00",12.97813781,77.60599997,E,Mandatory,no_parking_mandatory,Cubbon Road
+"06-09-2020 , 05:00",12.97831011,77.60549998,E,Mandatory,no_parking_mandatory,Cubbon Road
+"06-09-2020 , 05:00",12.97846965,77.60509263,E,Mandatory,no_parking_mandatory,Namma Metro Phase 2 Red Line
+"06-09-2020 , 05:00",12.97859895,77.6047121,E,Mandatory,no_parking_mandatory,Cubbon Road
+"06-09-2020 , 05:00",12.97869959,77.60440997,E,Mandatory,no_parking_mandatory,Cubbon Road
+"06-09-2020 , 05:00",12.97890253,77.60374854,E,Mandatory,no_parking_mandatory,Cubbon Road
+"06-09-2020 , 04:59",12.98046414,77.60376507,E,Mandatory,no_parking_mandatory,Lady Curzon Road
+"06-09-2020 , 04:58",12.98109391,77.60193336,E,Mandatory,no_parking_mandatory,Infantry Road
+"06-09-2020 , 05:35",12.98134775,77.59632088,W,Mandatory,no_parking_mandatory,Cubbon Road
+"06-09-2020 , 05:36",12.98171172,77.59520143,W,Mandatory,no_parking_mandatory,Raj Bhavan Road
+"06-09-2020 , 05:36",12.98197167,77.59434008,W,Mandatory,no_parking_mandatory,Raj Bhavan Road
+"06-09-2020 , 05:14",12.96988884,77.6121963,N,Mandatory,no_parking_mandatory,The Mar Thoma Syrian Church
+"06-09-2020 , 05:14",12.97100282,77.6123494,N,Mandatory,no_parking_mandatory,Primrose Road
+"06-09-2020 , 05:14",12.97131433,77.61239168,N,Mandatory,no_parking_mandatory,Primrose Road
+"06-09-2020 , 05:12",12.9725822,77.61077236,S,Mandatory,no_parking_mandatory,Commissariat Road
+"06-09-2020 , 05:11",12.97289283,77.60878406,E,Mandatory,no_parking_mandatory,Purple Haze
+"06-09-2020 , 05:12",12.97348524,77.61089069,E,Mandatory,no_parking_mandatory,Commissariat Road
+"06-09-2020 , 05:15",12.97349511,77.61288651,N,Mandatory,no_parking_mandatory,Primrose Road
+"06-09-2020 , 05:17",12.97436351,77.61095673,W,Mandatory,no_parking_mandatory,Namma Metro Reach-1
+"06-09-2020 , 05:04",12.97556644,77.61347321,W,Mandatory,no_parking_mandatory,Cubbon Road
+"06-09-2020 , 05:02",12.97587084,77.61283224,E,Mandatory,no_parking_mandatory,Manipal Center
+"06-09-2020 , 05:05",12.97643722,77.61086224,W,Mandatory,no_parking_mandatory,Cubbon Road
+"06-09-2020 , 05:02",12.97655256,77.61081071,E,Mandatory,no_parking_mandatory,Cubbon Road
+"06-09-2020 , 05:02",12.97671538,77.61032649,E,Mandatory,no_parking_mandatory,Cubbon Road
+"06-09-2020 , 05:01",12.97703014,77.60936222,E,Mandatory,no_parking_mandatory,Cubbon Road
+"06-09-2020 , 05:11",12.97238035,77.6071283,S,Asset,junction_street_light,Brigade Road
+"06-09-2020 , 05:07",12.97670959,77.60192529,S,Asset,junction_street_light,Saint Mark's Road
+"06-09-2020 , 05:07",12.97674366,77.60193361,S,Asset,junction_street_light,Namma Metro Reach-1
+"06-09-2020 , 05:42",12.99402275,77.58512356,N,Asset,double_street_light,Windsor Manor Bridge
+"06-09-2020 , 05:42",12.994335,77.58508798,N,Asset,double_street_light,T Chowdiah Road
+"06-09-2020 , 05:42",12.99677358,77.58459448,N,Asset,double_street_light,T Chowdiah Road
+"06-09-2020 , 05:42",12.99711965,77.58452351,N,Asset,double_street_light,T Chowdiah Road
+"06-09-2020 , 05:00",12.97821506,77.60576667,E,Asset,double_street_light,Cubbon Road
+"06-09-2020 , 05:02",12.97615696,77.61198051,E,Asset,double_street_light,Cubbon Road
+"06-09-2020 , 05:43",12.99822475,77.58427958,N,Asset,single_street_light,T Chowdiah Road
+"06-09-2020 , 05:44",13.00331768,77.58380091,N,Asset,single_street_light,Ramana Maharshi Road
+"06-09-2020 , 05:44",13.00337259,77.58375411,N,Asset,single_street_light,Ramana Maharshi Road
+"06-09-2020 , 05:44",13.0035532,77.58354036,W,Asset,single_street_light,Ramana Maharshi Road
+"06-09-2020 , 05:44",13.00373619,77.58326265,W,Asset,single_street_light,Sankey Tank Road
+"06-09-2020 , 05:26",12.96908425,77.59456976,S,Asset,single_street_light,Vittal Mallya Road
+"06-09-2020 , 05:23",12.97038672,77.60043021,W,Asset,single_street_light,Vittal Mallya Road
+"06-09-2020 , 05:26",12.97043486,77.59427377,S,Asset,single_street_light,Vittal Mallya Road
+"06-09-2020 , 05:22",12.97206906,77.60117067,S,Asset,single_street_light,Saint Mark's Road
+"06-09-2020 , 05:10",12.9727273,77.60726293,S,Asset,single_street_light,Citibank ATM
+"06-09-2020 , 05:10",12.97309086,77.60739728,S,Asset,single_street_light,Pizza Hut
+"06-09-2020 , 05:20",12.97504263,77.60471632,W,Asset,single_street_light,Church Street
+"06-09-2020 , 05:20",12.97523815,77.60373494,W,Asset,single_street_light,Hum India
+"06-09-2020 , 05:07",12.97807716,77.60223362,S,Asset,single_street_light,Saint Mark's Road
+"06-09-2020 , 05:07",12.9787951,77.60239376,S,Asset,single_street_light,Saint Mark's Road
+"06-09-2020 , 05:00",12.9790821,77.60346598,S,Asset,single_street_light,Lady Curzon Road
+"06-09-2020 , 05:34",12.98001185,77.59770446,N,Asset,single_street_light,Queen's Road
+"06-09-2020 , 05:35",12.9812757,77.5965461,W,Asset,single_street_light,Namma Metro UG2
+"06-09-2020 , 05:11",12.97307621,77.60919047,E,Asset,single_street_light,Preethi Sagar
+"06-09-2020 , 05:17",12.97487529,77.6084021,W,Asset,single_street_light,Kotak Mahindra
+"06-09-2020 , 05:18",12.97488014,77.60830114,W,Asset,single_street_light,Kotak Mahindra
+"06-09-2020 , 05:17",12.97490246,77.60841605,W,Asset,single_street_light,Mahatma Gandhi Road
+"06-09-2020 , 05:05",12.97700836,77.60909728,W,Asset,single_street_light,Cubbon Road
+"06-09-2020 , 05:38",12.9845892,77.58872498,W,Asset,traffic_signal,Raj Bhavan Road
+"06-09-2020 , 05:39",12.98659832,77.58879075,N,Asset,traffic_signal,Ubhayakar Circle
+"06-09-2020 , 05:41",12.99324184,77.58510624,N,Asset,traffic_signal,T Chowdiah Road
+"06-09-2020 , 05:42",12.99355608,77.58503597,N,Asset,traffic_signal,T Chowdiah Road
+"06-09-2020 , 05:42",12.99382027,77.58505949,N,Asset,traffic_signal,Kumara Krupa Road
+"06-09-2020 , 05:43",12.99956385,77.58415041,N,Asset,traffic_signal,Chowdiah Road
+"06-09-2020 , 05:44",13.00356791,77.58388585,E,Asset,traffic_signal,Ramana Maharshi Road
+"06-09-2020 , 05:23",12.97066324,77.60086892,S,Asset,traffic_signal,Bank of India
+"06-09-2020 , 05:25",12.97202666,77.59419002,W,Asset,traffic_signal,ionising radiation tower (Road side) Pole Mounted
+"06-09-2020 , 05:30",12.97213851,77.59393447,N,Asset,traffic_signal,Vittal Mallya Road
+"06-09-2020 , 05:11",12.97220492,77.60711221,S,Asset,traffic_signal,Brigade Road
+"06-09-2020 , 05:07",12.97688698,77.60196107,S,Asset,traffic_signal,Namma Metro Reach-1
+"06-09-2020 , 05:34",12.98052212,77.59746268,N,Asset,traffic_signal,Queen's Road
+"06-09-2020 , 04:58",12.98069966,77.60296792,E,Asset,traffic_signal,Infantry Road
+"06-09-2020 , 04:58",12.98078489,77.60276055,E,Asset,traffic_signal,Infantry Road
+"06-09-2020 , 05:35",12.98088184,77.59720619,N,Asset,traffic_signal,Minsk Square
+"06-09-2020 , 05:36",12.98175578,77.59508122,W,Asset,traffic_signal,Raj Bhavan Road
+"06-09-2020 , 05:36",12.98183566,77.59475755,W,Asset,traffic_signal,Police Thimmaya Circle
+"06-09-2020 , 05:13",12.97073395,77.61035806,S,Asset,traffic_signal,Commissariat Road
+"06-09-2020 , 05:17",12.97432814,77.61111644,W,Asset,traffic_signal,Mahatma Gandhi Road
+"06-09-2020 , 05:09",12.97504592,77.6079316,S,Asset,traffic_signal,Brigade Road
+"06-09-2020 , 05:09",12.97508727,77.6078997,E,Asset,traffic_signal,Brigade Road
+"06-09-2020 , 05:05",12.97716157,77.60866377,W,Asset,traffic_signal,Cubbon Road
+"06-09-2020 , 05:01",12.97719186,77.60884437,E,Asset,traffic_signal,Cubbon Road
+"06-09-2020 , 05:01",12.97729528,77.60849616,E,Asset,traffic_signal,Cubbon Road
+"06-09-2020 , 05:45",13.004682,77.58404246,N,Manhole,None,Ramana Maharshi Road
+"06-09-2020 , 05:44",13.00368521,77.58365888,E,Manhole,None,Ramana Maharshi Road
+"06-09-2020 , 05:25",12.97199622,77.59437624,W,Manhole,None,Vittal Mallya Road
+"06-09-2020 , 05:25",12.97183281,77.59486948,W,Manhole,None,Vittal Mallya Road
+"06-09-2020 , 05:25",12.97116893,77.59642839,W,Manhole,None,Vittal Mallya Road
+"06-09-2020 , 05:23",12.97058731,77.5997172,W,Manhole,None,ICICI Bank
+"06-09-2020 , 05:23",12.97046544,77.60016576,W,Manhole,None,Vittal Mallya Road
+"06-09-2020 , 05:20",12.97525061,77.60356734,W,Manhole,None,Bheema's
+"06-09-2020 , 05:19",12.97488262,77.60539241,W,Manhole,None,Church Street
+"06-09-2020 , 05:10",12.97263925,77.60723111,S,Manhole,None,Brigade Road
+"06-09-2020 , 04:59",12.98041642,77.6038537,E,Manhole,None,Infantry Road
+"06-09-2020 , 04:57",12.98120269,77.60156042,E,Manhole,None,#
+"06-09-2020 , 04:57",12.98209035,77.60000226,S,Manhole,None,Plain Street
+"06-09-2020 , 05:18",12.97436828,77.60744472,W,Manhole,None,Nike Showroom
+"06-09-2020 , 05:15",12.97358458,77.61291249,N,Manhole,None,Primrose Road
+"06-09-2020 , 05:15",12.97316275,77.61279782,N,Manhole,None,Primrose Road
+"06-09-2020 , 05:15",12.97190221,77.61251144,N,Manhole,None,Primrose Road
+"06-09-2020 , 05:14",12.97117554,77.61238289,N,Manhole,None,Primrose Road
+"06-09-2020 , 05:14",12.97114037,77.61237516,N,Manhole,None,Primrose Road
+"06-09-2020 , 05:13",12.97016147,77.61073629,E,Manhole,None,Magrath Road
+"06-09-2020 , 05:13",12.97029011,77.61045429,E,Manhole,None,Commissariat Road
+"06-09-2020 , 05:12",12.97337241,77.61093128,S,Manhole,None,Commissariat Road
+"06-09-2020 , 05:12",12.97351422,77.61062599,E,Manhole,None,Mayo Hall
+"06-09-2020 , 05:11",12.97271238,77.60843972,E,Manhole,None,FM Cariappa Road (Residency Road)
+"06-09-2020 , 05:10",12.97345158,77.60754655,S,Manhole,None,Brigade Road Cross
+"06-09-2020 , 05:10",12.97367526,77.6076149,S,Manhole,None,Brigade Road Cross
+"06-09-2020 , 05:09",12.97488715,77.6079112,S,Manhole,None,Cauvery Arts And Crafts Emporium
+"06-09-2020 , 05:02",12.97663403,77.61057741,E,Manhole,None,Cubbon Road
+"06-09-2020 , 05:43",12.99956385,77.58415041,N,SpeedBreaker,None,Chowdiah Road
+"06-09-2020 , 05:39",12.98636444,77.58880954,N,SpeedBreaker,None,Palace Road
+"06-09-2020 , 05:39",12.98632142,77.58878805,N,SpeedBreaker,None,Palace Road
+"06-09-2020 , 05:39",12.98569191,77.58855052,N,SpeedBreaker,None,Palace Road
+"06-09-2020 , 05:39",12.98564607,77.58853021,N,SpeedBreaker,None,Palace Road
+"06-09-2020 , 05:37",12.98332621,77.59159496,W,SpeedBreaker,None,Raj Bhavan Road
+"06-09-2020 , 05:37",12.98330122,77.59166125,W,SpeedBreaker,None,Raj Bhavan Road
+"06-09-2020 , 05:36",12.98183566,77.59475755,W,SpeedBreaker,None,Raj Bhavan Road
+"06-09-2020 , 05:34",12.98052212,77.59746268,N,SpeedBreaker,None,Queen's Road
+"06-09-2020 , 05:33",12.97638352,77.59895878,E,SpeedBreaker,None,Kasturba Road
+"06-09-2020 , 05:30",12.97213851,77.59393447,N,SpeedBreaker,None,Kasturba Road
+"06-09-2020 , 05:30",12.97210748,77.59389657,N,SpeedBreaker,None,Kasturba Road
+"06-09-2020 , 05:30",12.97196261,77.59373529,E,SpeedBreaker,None,#
+"06-09-2020 , 05:26",12.97067843,77.59422301,S,SpeedBreaker,None,Vittal Mallya Road
+"06-09-2020 , 05:25",12.9717994,77.59398532,S,SpeedBreaker,None,Vittal Mallya Road
+"06-09-2020 , 05:25",12.97186024,77.59399829,S,SpeedBreaker,None,Kasturba Road
+"06-09-2020 , 05:25",12.97201732,77.59415634,W,SpeedBreaker,None,ionising radiation tower (Road side) Pole Mounted
+"06-09-2020 , 05:25",12.97158643,77.59554526,W,SpeedBreaker,None,Vittal Mallya Road
+"06-09-2020 , 05:25",12.97112914,77.59672118,W,SpeedBreaker,None,Vittal Mallya Road
+"06-09-2020 , 05:24",12.97111228,77.59772245,W,SpeedBreaker,None,Vittal Mallya Road
+"06-09-2020 , 05:24",12.9710847,77.59800017,W,SpeedBreaker,None,Vittal Mallya Road
+"06-09-2020 , 05:22",12.97297839,77.60148499,W,SpeedBreaker,None,Saint Mark's Road
+"06-09-2020 , 05:22",12.97297984,77.60153874,W,SpeedBreaker,None,Saint Mark's Road
+"06-09-2020 , 05:21",12.97302511,77.60323603,S,SpeedBreaker,None,Museum Road
+"06-09-2020 , 05:21",12.97306937,77.60322343,S,SpeedBreaker,None,Museum Road
+"06-09-2020 , 05:21",12.9731228,77.6032136,S,SpeedBreaker,None,Museum Road
+"06-09-2020 , 05:19",12.97455643,77.60670598,W,SpeedBreaker,None,Church Street
+"06-09-2020 , 05:07",12.97683664,77.60195688,S,SpeedBreaker,None,Namma Metro Reach-1
+"06-09-2020 , 05:07",12.97907136,77.60269377,W,SpeedBreaker,None,Cubbon Road
+"06-09-2020 , 04:58",12.98078489,77.60276055,E,SpeedBreaker,None,Infantry Road
+"06-09-2020 , 05:18",12.97488014,77.60830114,W,SpeedBreaker,None,Kotak Mahindra
+"06-09-2020 , 05:18",12.97487394,77.60833663,W,SpeedBreaker,None,Kotak Mahindra
+"06-09-2020 , 05:17",12.97432814,77.61111644,W,SpeedBreaker,None,Mahatma Gandhi Road
+"06-09-2020 , 05:17",12.97431399,77.61117062,W,SpeedBreaker,None,Mahatma Gandhi Road
+"06-09-2020 , 05:12",12.97219811,77.61067568,S,SpeedBreaker,None,Commissariat Road
+"06-09-2020 , 05:12",12.97225673,77.61069321,S,SpeedBreaker,None,Commissariat Road
+"06-09-2020 , 05:12",12.97345561,77.61091381,S,SpeedBreaker,None,Commissariat Road
+"06-09-2020 , 05:12",12.97341441,77.61010809,E,SpeedBreaker,None,Mayo Hall
+"06-09-2020 , 05:09",12.97515876,77.60769732,E,SpeedBreaker,None,Namma Metro Reach-1
+"06-09-2020 , 05:05",12.97714509,77.60871292,W,SpeedBreaker,None,Cubbon Road
+"06-09-2020 , 05:05",12.97704238,77.60899101,W,SpeedBreaker,None,Cubbon Road
+"06-09-2020 , 05:05",12.97702464,77.60903891,W,SpeedBreaker,None,Cubbon Road
+"06-09-2020 , 05:35",12.9809709,77.5971248,W,Level_3,Pothole,Queen's Road
+"06-09-2020 , 05:24",12.97111802,77.59781262,W,Level_3,"Manhole, Pothole",Vittal Mallya Road
+"06-09-2020 , 05:24",12.97111621,77.59785487,W,Level_3,"Patch, Pothole",Dr. Vittal Mallya
+"06-09-2020 , 05:00",12.97985731,77.60369399,S,Level_3,Pothole,Lady Curzon Road
+"06-09-2020 , 05:13",12.96994693,77.61128651,E,Level_3,Pothole,Magrath Road
+"06-09-2020 , 05:13",12.97049651,77.61035946,S,Level_3,Pothole,Magrath Road
+"06-09-2020 , 05:13",12.9705291,77.61034661,S,Level_3,Pothole,Magrath Road
+"06-09-2020 , 05:12",12.97251987,77.61075023,S,Level_3,"Patch, Pothole",Commissariat Road
+"06-09-2020 , 05:45",13.00409119,77.58405382,Level_2,N,Alligator Crack,Ramana Maharshi Road
+"06-09-2020 , 05:44",13.00373619,77.58326265,Level_2,W,Alligator Crack,Ramana Maharshi Road
+"06-09-2020 , 05:43",13.00191057,77.58408108,Level_2,N,Ravelling,Chowdiah Road
+"06-09-2020 , 05:42",12.99574237,77.58481326,Level_2,N,Ravelling,Windsor Manor Bridge
+"06-09-2020 , 05:42",12.9951882,77.58492919,Level_2,N,Ravelling,T Chowdiah Road
+"06-09-2020 , 05:39",12.98688273,77.58854398,Level_2,W,Ravelling,Ubhayakar Circle
+"06-09-2020 , 05:39",12.98573964,77.58856662,Level_2,N,"SpeedBreaker, Ravelling",Palace Road
+"06-09-2020 , 05:38",12.98437343,77.58928159,Level_2,W,"Ravelling, Patch",Raj Bhavan Road
+"06-09-2020 , 05:37",12.98374895,77.59044862,Level_2,W,Ravelling,Raj Bhavan Road
+"06-09-2020 , 05:37",12.98319053,77.59190679,Level_2,W,Ravelling,Raj Bhavan Road
+"06-09-2020 , 05:37",12.98306107,77.59215876,Level_2,W,Ravelling,Ali Askar Road
+"06-09-2020 , 05:36",12.9819,77.5945542,Level_2,W,Ravelling,Police Thimmaya Circle
+"06-09-2020 , 05:36",12.98181536,77.59481811,Level_2,W,Alligator Crack,Raj Bhavan Road
+"06-09-2020 , 05:30",12.97286335,77.59461218,Level_2,N,"Ravelling, Patch",Kasturba Road
+"06-09-2020 , 05:28",12.96772688,77.58994914,Level_2,W,Ravelling,Rajaram Mohan Roy Road
+"06-09-2020 , 05:28",12.96781347,77.59071941,Level_2,W,Ravelling,Rajaram Mohan Roy Road
+"06-09-2020 , 05:27",12.96754334,77.59416125,Level_2,W,Alligator Crack,Rajaram Mohan Roy Road
+"06-09-2020 , 05:27",12.96744921,77.59427661,Level_2,N,Ravelling,Rajaram Mohan Roy Road
+"06-09-2020 , 05:27",12.96715706,77.59459314,Level_2,W,Rough,Sri Ram Mandir Road
+"06-09-2020 , 05:27",12.96723023,77.59488258,Level_2,S,Ravelling,Vittal Mallya Road
+"06-09-2020 , 05:24",12.9708488,77.59889784,Level_2,W,Ravelling,Vittal Mallya Road
+"06-09-2020 , 05:11",12.97220492,77.60711221,Level_2,S,Ravelling,Brigade Road
+"06-09-2020 , 05:07",12.97679035,77.60194831,Level_2,S,"SpeedBreaker, Ravelling",Namma Metro Reach-1
+"06-09-2020 , 05:07",12.97694801,77.60197472,Level_2,S,Ravelling,Saint Mark's Road
+"06-09-2020 , 04:58",12.98068995,77.60300355,Level_2,E,Ravelling,Infantry Road
+"06-09-2020 , 05:13",12.96985008,77.61158081,Level_2,E,"Ravelling, Crack",Magrath Road
+"06-09-2020 , 05:13",12.96988113,77.61153636,Level_2,E,Ravelling,Magrath Road
+"06-09-2020 , 05:13",12.96990945,77.61141736,Level_2,E,Ravelling,Magrath Road
+"06-09-2020 , 05:13",12.9699192,77.61137482,Level_2,E,Ravelling,Magrath Road
+"06-09-2020 , 05:13",12.9700117,77.61106578,Level_2,E,Alligator Crack,Magrath Road
+"06-09-2020 , 05:13",12.97002109,77.6110321,Level_2,E,Ravelling,Magrath Road
+"06-09-2020 , 05:05",12.97720496,77.60850924,Level_2,W,Ravelling,Cubbon Road
+"06-09-2020 , 05:01",12.97714258,77.60901479,Level_2,E,Alligator Crack,Cubbon Road
+"06-09-2020 , 05:44",13.00360169,77.58379942,E,Level_1,Patch,Ramana Maharshi Road
+"06-09-2020 , 05:44",13.00362765,77.58375175,E,Level_1,Patch,Ramana Maharshi Road
+"06-09-2020 , 05:44",13.00365461,77.58370618,E,Level_1,"Manhole, Patch",Ramana Maharshi Road
+"06-09-2020 , 05:44",13.00371714,77.58361135,E,Level_1,Patch,Sankey Tank Road Underpass
+"06-09-2020 , 05:44",13.00212173,77.58408824,N,Level_1,Patch,T Chowdiah Road
+"06-09-2020 , 05:43",13.00205409,77.58408842,N,Level_1,Crack,T Chowdiah Road
+"06-09-2020 , 05:43",13.00153542,77.58407779,N,Level_1,Patch,T Chowdiah Road
+"06-09-2020 , 05:37",12.98411257,77.58966199,W,Level_1,Patch,Raj Bhavan Road
+"06-09-2020 , 05:36",12.98291114,77.5922969,N,Level_1,Crack,Raj Bhavan Road
+"06-09-2020 , 05:31",12.9756599,77.5978411,E,Level_1,Rough,Kasturba Road
+"06-09-2020 , 05:28",12.967716,77.58962828,W,Level_1,Patch,Sri Vari Veg
+"06-09-2020 , 05:24",12.97111594,77.59776818,W,Level_1,Patch,Vittal Mallya Road
+"06-09-2020 , 05:23",12.97066966,77.59943593,W,Level_1,Patch,Vittal Mallya Road
+"06-09-2020 , 05:22",12.97216543,77.60118876,S,Level_1,Patch,Saint Mark's Road
+"06-09-2020 , 05:19",12.97486815,77.60543346,W,Level_1,Patch,Church Street
+"06-09-2020 , 05:11",12.97224291,77.60710736,S,Level_1,Rough,Brigade Road
+"06-09-2020 , 05:11",12.97228853,77.6071143,S,Level_1,Patch,Brigade Road
+"06-09-2020 , 05:10",12.97250151,77.60717336,S,Level_1,Patch,Brigade Road
+"06-09-2020 , 05:10",12.97283335,77.60729823,S,Level_1,Patch,Brigade Road
+"06-09-2020 , 05:10",12.97287399,77.60732207,S,Level_1,Patch,Brigade Road
+"06-09-2020 , 05:10",12.97297288,77.60735467,S,Level_1,"Manhole, Patch",Pizza Hut
+"06-09-2020 , 05:10",12.97303275,77.60737405,S,Level_1,"Patch, Manhole",Pizza Hut
+"06-09-2020 , 05:08",12.97645518,77.60233682,E,Level_1,Patch,Museum Road
+"06-09-2020 , 05:07",12.97661253,77.60196378,S,Level_1,Patch,Saint Mark's Road
+"06-09-2020 , 05:07",12.97668075,77.60192863,S,Level_1,Patch,Saint Mark's Road
+"06-09-2020 , 05:07",12.9790512,77.60276087,W,Level_1,"SpeedBreaker, Patch",Cubbon Road
+"06-09-2020 , 05:06",12.9785874,77.6042529,W,Level_1,Patch,Cubbon Road
+"06-09-2020 , 05:00",12.97797013,77.60656216,E,Level_1,Patch,Cubbon Road
+"06-09-2020 , 05:00",12.97911642,77.60346775,S,Level_1,Patch,Lady Curzon Road
+"06-09-2020 , 04:59",12.9800679,77.60376469,S,Level_1,Rough,Lady Curzon Road
+"06-09-2020 , 04:58",12.98069966,77.60296792,E,Level_1,Patch,Infantry Road
+"06-09-2020 , 04:58",12.98112799,77.60179777,E,Level_1,Rough,Infantry Road
+"06-09-2020 , 04:58",12.98115798,77.60171406,E,Level_1,Rough,Infantry Road
+"06-09-2020 , 04:57",12.98128777,77.6013245,E,Level_1,"Manhole, Patch",Infantry Road
+"06-09-2020 , 04:57",12.98143146,77.60098516,E,Level_1,Rough,Infantry Road
+"06-09-2020 , 04:57",12.9815791,77.60054016,E,Level_1,Crack,Infantry Road
+"06-09-2020 , 04:57",12.98162643,77.60040349,E,Level_1,Rough,Infantry Road
+"06-09-2020 , 04:57",12.9817893,77.60012484,E,Level_1,Rough,Infantry Road
+"06-09-2020 , 05:18",12.97439455,77.60773813,S,Level_1,Patch,Church Street
+"06-09-2020 , 05:15",12.97344846,77.61287558,N,Level_1,Patch,Primrose Road
+"06-09-2020 , 05:15",12.9725337,77.61266731,N,Level_1,"Manhole, Patch",Primrose Road
+"06-09-2020 , 05:13",12.96972438,77.61209255,E,Level_1,Rough,Primrose Road
+"06-09-2020 , 05:13",12.9697323,77.61197648,E,Level_1,Rough,Magrath Road
+"06-09-2020 , 05:13",12.9697824,77.61184194,E,Level_1,Rough,Magrath Road
+"06-09-2020 , 05:13",12.96983734,77.61163609,E,Level_1,Crack,Magrath Road
+"06-09-2020 , 05:13",12.96990117,77.61145645,E,Level_1,Patch,Magrath Road
+"06-09-2020 , 05:12",12.97230629,77.61069177,S,Level_1,Patch,Commissariat Road
+"06-09-2020 , 05:10",12.9731888,77.6074277,S,Level_1,Crack,Brigade Road
+"06-09-2020 , 05:10",12.97356226,77.6075917,S,Level_1,Crack,Brigade Road Cross
+"06-09-2020 , 05:10",12.97394849,77.60765171,S,Level_1,Patch,McDonald's
+"06-09-2020 , 05:10",12.97399153,77.60765943,S,Level_1,Patch,McDonald's
+"06-09-2020 , 05:09",12.97474849,77.60783731,S,Level_1,Crack,Brigade Road
+"06-09-2020 , 05:05",12.97697129,77.60922315,W,Level_1,Patch,Cubbon Road
+"06-09-2020 , 05:01",12.97724169,77.60867829,E,Level_1,Patch,Kamaraj Road
+"06-09-2020 , 05:45",13.00495956,77.58403398,N,Level_0,None,Ramana Maharshi Road
+"06-09-2020 , 05:45",13.00488575,77.58404249,N,Level_0,None,Ramana Maharshi Road
+"06-09-2020 , 05:45",13.00483959,77.58404517,N,Level_0,None,Ramana Maharshi Road
+"06-09-2020 , 05:45",13.00478738,77.58404159,N,Level_0,None,Ramana Maharshi Road
+"06-09-2020 , 05:45",13.00473258,77.58403422,N,Level_0,None,Ramana Maharshi Road
+"06-09-2020 , 05:45",13.00463024,77.58403786,N,Level_0,None,Ramana Maharshi Road
+"06-09-2020 , 05:45",13.00457571,77.58404441,N,Level_0,None,Ramana Maharshi Road
+"06-09-2020 , 05:45",13.0045388,77.58405806,N,Level_0,None,Ramana Maharshi Road
+"06-09-2020 , 05:45",13.0044872,77.58406432,N,Level_0,None,Ramana Maharshi Road
+"06-09-2020 , 05:45",13.00443155,77.58406973,N,Level_0,None,Ramana Maharshi Road
+"06-09-2020 , 05:45",13.00437982,77.58406892,N,Level_0,None,Ramana Maharshi Road
+"06-09-2020 , 05:45",13.00433379,77.58405728,N,Level_0,None,Ramana Maharshi Road
+"06-09-2020 , 05:45",13.00427848,77.58404177,N,Level_0,None,Ramana Maharshi Road
+"06-09-2020 , 05:45",13.00423825,77.58404747,N,Level_0,None,Ramana Maharshi Road
+"06-09-2020 , 05:45",13.00419397,77.58404304,N,Level_0,None,Ramana Maharshi Road
+"06-09-2020 , 05:45",13.00413975,77.58405025,N,Level_0,None,Ramana Maharshi Road
+"06-09-2020 , 05:45",13.00404329,77.58406162,N,Level_0,None,Ramana Maharshi Road
+"06-09-2020 , 05:45",13.00399235,77.58406708,N,Level_0,None,Ramana Maharshi Road
+"06-09-2020 , 05:44",13.00395021,77.58407337,N,Level_0,None,Ramana Maharshi Road
+"06-09-2020 , 05:44",13.00389609,77.58408192,N,Level_0,None,Ramana Maharshi Road
+"06-09-2020 , 05:44",13.00385352,77.58408743,N,Level_0,None,Ramana Maharshi Road
+"06-09-2020 , 05:44",13.0038118,77.58409215,N,Level_0,None,Ramana Maharshi Road
+"06-09-2020 , 05:44",13.00376907,77.5840955,N,Level_0,None,Ramana Maharshi Road
+"06-09-2020 , 05:44",13.00372102,77.58410471,N,Level_0,None,Ramana Maharshi Road
+"06-09-2020 , 05:44",13.00367565,77.5840991,N,Level_0,None,Ramana Maharshi Road
+"06-09-2020 , 05:44",13.0036378,77.58408844,N,Level_0,None,Ramana Maharshi Road
+"06-09-2020 , 05:44",13.00360606,77.58405566,E,Level_0,None,Ramana Maharshi Road
+"06-09-2020 , 05:44",13.00357953,77.58401682,E,Level_0,None,Ramana Maharshi Road
+"06-09-2020 , 05:44",13.00356779,77.58397253,E,Level_0,None,Sankey Tank Road
+"06-09-2020 , 05:44",13.00356503,77.58393029,E,Level_0,None,Sankey Tank Road
+"06-09-2020 , 05:44",13.00356791,77.58388585,E,Level_0,None,Sankey Tank Road
+"06-09-2020 , 05:44",13.00358325,77.58384397,E,Level_0,None,Sankey Tank Road
+"06-09-2020 , 05:44",13.003757,77.58355557,E,Level_0,None,18th Cross Road
+"06-09-2020 , 05:44",13.00379558,77.58349951,E,Level_0,None,18th Cross Road
+"06-09-2020 , 05:44",13.00382794,77.58344571,E,Level_0,None,Sankey Tank Road Underpass
+"06-09-2020 , 05:44",13.00385819,77.5833998,E,Level_0,None,Sankey Tank Road Underpass
+"06-09-2020 , 05:44",13.00387522,77.58336399,E,Level_0,None,Sankey Tank Road
+"06-09-2020 , 05:44",13.00388261,77.58332808,E,Level_0,None,Sankey Tank Road
+"06-09-2020 , 05:44",13.00388054,77.58329432,E,Level_0,None,Sankey Tank Road Underpass
+"06-09-2020 , 05:44",13.00384996,77.5832539,N,Level_0,None,Sankey Tank Road Underpass
+"06-09-2020 , 05:44",13.00380017,77.58324038,N,Level_0,None,Ramana Maharshi Road
+"06-09-2020 , 05:44",13.0037676,77.58324588,N,Level_0,None,Ramana Maharshi Road
+"06-09-2020 , 05:44",13.0037121,77.58328851,W,Level_0,None,Ramana Maharshi Road
+"06-09-2020 , 05:44",13.00368799,77.58332621,W,Level_0,None,Sankey Tank Road
+"06-09-2020 , 05:44",13.00365758,77.5833754,W,Level_0,None,Sankey Tank Road
+"06-09-2020 , 05:44",13.00362588,77.58342833,W,Level_0,None,Ramana Maharshi Road
+"06-09-2020 , 05:44",13.00359113,77.5834854,W,Level_0,None,Ramana Maharshi Road
+"06-09-2020 , 05:44",13.0035532,77.58354036,W,Level_0,None,1st Main Road
+"06-09-2020 , 05:44",13.00351535,77.5835977,W,Level_0,None,1st Main Road
+"06-09-2020 , 05:44",13.00342201,77.58370215,W,Level_0,None,1st Main Road
+"06-09-2020 , 05:44",13.00337259,77.58375411,N,Level_0,None,Ramana Maharshi Road
+"06-09-2020 , 05:44",13.00325485,77.58384519,N,Level_0,None,Ramana Maharshi Road
+"06-09-2020 , 05:44",13.00317904,77.58388472,N,Level_0,None,Ramana Maharshi Road
+"06-09-2020 , 05:44",13.00311729,77.58392345,N,Level_0,None,Chowdiah Road
+"06-09-2020 , 05:44",13.00305711,77.58395404,N,Level_0,None,Chowdiah Road
+"06-09-2020 , 05:44",13.00298648,77.58397836,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:44",13.00291786,77.58401874,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:44",13.00284615,77.58403669,N,Level_0,None,Chowdiah Road
+"06-09-2020 , 05:44",13.00277506,77.58404719,N,Level_0,None,Chowdiah Road
+"06-09-2020 , 05:44",13.00270517,77.58406128,N,Level_0,None,Chowdiah Road
+"06-09-2020 , 05:44",13.00255497,77.58407696,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:44",13.00248283,77.58408572,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:44",13.00241332,77.58409632,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:44",13.00234095,77.58409961,N,Level_0,None,Chowdiah Road
+"06-09-2020 , 05:44",13.00226311,77.58407854,N,Level_0,None,Chowdiah Road
+"06-09-2020 , 05:44",13.00219045,77.58408302,N,Level_0,None,Chowdiah Road
+"06-09-2020 , 05:43",13.00198022,77.58408336,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:43",13.0018373,77.58407892,N,Level_0,None,Chowdiah Road
+"06-09-2020 , 05:43",13.00175619,77.58407572,N,Level_0,None,Chowdiah Road
+"06-09-2020 , 05:43",13.00168536,77.58407636,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:43",13.00160941,77.58407381,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:43",13.00146237,77.58408338,N,Level_0,None,Chowdiah Road
+"06-09-2020 , 05:43",13.00138708,77.58408168,N,Level_0,None,Chowdiah Road
+"06-09-2020 , 05:43",13.00131168,77.5840697,N,Level_0,None,Chowdiah Road
+"06-09-2020 , 05:43",13.00123597,77.58407298,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:43",13.00115744,77.58406885,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:43",13.00107749,77.58407339,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:43",13.00101532,77.58408673,N,Level_0,None,Chowdiah Road
+"06-09-2020 , 05:43",13.00093595,77.58408425,N,Level_0,None,Chowdiah Road
+"06-09-2020 , 05:43",13.00085278,77.58408877,N,Level_0,None,Chowdiah Road
+"06-09-2020 , 05:43",13.0007665,77.58409213,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:43",13.00068319,77.58409312,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:43",13.00059655,77.58409706,N,Level_0,None,Chowdiah Road
+"06-09-2020 , 05:43",13.00051315,77.58410012,N,Level_0,None,Chowdiah Road
+"06-09-2020 , 05:43",13.0004246,77.58410367,N,Level_0,None,Chowdiah Road
+"06-09-2020 , 05:43",13.00034137,77.58410802,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:43",13.00025508,77.58411081,N,Level_0,None,Guttahalli Bus Stop
+"06-09-2020 , 05:43",13.00016599,77.58411858,N,Level_0,None,Chowdiah Road
+"06-09-2020 , 05:43",13.00008124,77.58412368,N,Level_0,None,Chowdiah Road
+"06-09-2020 , 05:43",12.99999889,77.58413091,N,Level_0,None,Chowdiah Road
+"06-09-2020 , 05:43",12.99991845,77.58413839,N,Level_0,None,Chowdiah Road
+"06-09-2020 , 05:43",12.99975749,77.58414583,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:43",12.99968345,77.58414612,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:43",12.99961928,77.58414912,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:43",12.99952256,77.58415189,N,Level_0,None,Chowdiah Road
+"06-09-2020 , 05:43",12.99946863,77.58415519,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:43",12.99941732,77.58415756,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:43",12.99935973,77.58416388,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:43",12.99929169,77.58416423,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:43",12.9992229,77.58416776,N,Level_0,None,Gutahalli Palace Main Road
+"06-09-2020 , 05:43",12.99915203,77.5841748,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:43",12.99907078,77.58417618,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:43",12.99899369,77.5841783,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:43",12.99883364,77.58418487,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:43",12.99866389,77.58419874,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:43",12.99848394,77.58423396,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:43",12.99831045,77.58426355,N,Level_0,None,Palace Cross Road
+"06-09-2020 , 05:43",12.99822475,77.58427958,N,Level_0,None,Palace Cross Road
+"06-09-2020 , 05:43",12.99814129,77.58429758,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:43",12.9980589,77.58431429,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:43",12.99797941,77.5843269,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:43",12.99789921,77.58434678,N,Level_0,None,Venkataswamy Raju Road
+"06-09-2020 , 05:43",12.99782132,77.58436217,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:43",12.9977441,77.58437377,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:43",12.99766843,77.58439288,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:43",12.99759152,77.58440999,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:42",12.99744267,77.58444984,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:42",12.99737253,77.58446541,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:42",12.99730809,77.58447695,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:42",12.99725523,77.58449151,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:42",12.99718927,77.58450522,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:42",12.99711965,77.58452351,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:42",12.99704832,77.58454047,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:42",12.99698163,77.5845523,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:42",12.9968439,77.58458348,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:42",12.99677358,77.58459448,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:42",12.99669614,77.5846086,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:42",12.99661098,77.58462157,N,Level_0,None,Railway Parallel Road
+"06-09-2020 , 05:42",12.99653556,77.58463756,N,Level_0,None,Railway Parallel Road
+"06-09-2020 , 05:42",12.99645778,77.5846589,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:42",12.99638308,77.58467452,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:42",12.996302,77.58469109,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:42",12.99622358,77.58470409,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:42",12.99615982,77.58472094,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:42",12.9960896,77.58473999,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:42",12.99601182,77.58475109,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:42",12.99592359,77.58476501,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:42",12.99583213,77.58478969,N,Level_0,None,Windsor Manor Bridge
+"06-09-2020 , 05:42",12.99564542,77.58483317,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:42",12.99554746,77.58485606,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:42",12.9954528,77.58488085,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:42",12.99536313,77.5848983,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:42",12.99528068,77.58491178,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:42",12.99509305,77.58494867,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:42",12.99499791,77.5849653,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:42",12.99490413,77.58498705,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:42",12.99481576,77.5850065,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:42",12.9947308,77.58502196,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:42",12.9946474,77.58503652,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:42",12.99456528,77.5850533,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:42",12.99448721,77.58506371,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:42",12.99440982,77.58507716,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:42",12.994335,77.58508798,N,Level_0,None,Windsor Manor Bridge
+"06-09-2020 , 05:42",12.99426767,77.58509751,N,Level_0,None,Windsor Manor Bridge
+"06-09-2020 , 05:42",12.99419974,77.5851074,N,Level_0,None,Kumara Krupa Road
+"06-09-2020 , 05:42",12.9941333,77.58511464,N,Level_0,None,Kumara Krupa Road
+"06-09-2020 , 05:42",12.99407749,77.58512472,N,Level_0,None,Kumara Krupa Road
+"06-09-2020 , 05:42",12.99402275,77.58512356,N,Level_0,None,Kumara Krupa Road
+"06-09-2020 , 05:42",12.99397602,77.58512293,N,Level_0,None,Kumara Krupa Road
+"06-09-2020 , 05:42",12.99394053,77.58511525,N,Level_0,None,Kumara Krupa Road
+"06-09-2020 , 05:42",12.99390052,77.58510537,N,Level_0,None,Kumara Krupa Road
+"06-09-2020 , 05:42",12.99385767,77.58508752,N,Level_0,None,Kumara Krupa Road
+"06-09-2020 , 05:42",12.99382027,77.58505949,N,Level_0,None,Kumara Krupa Road
+"06-09-2020 , 05:42",12.99378376,77.58503943,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:42",12.99374919,77.58502685,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:42",12.99371745,77.58502022,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:42",12.99368337,77.58501715,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:42",12.99365071,77.58501929,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:42",12.99360372,77.58502661,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:42",12.99355608,77.58503597,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:42",12.99352702,77.585038,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:41",12.99349468,77.58504711,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:41",12.99345477,77.58505599,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:41",12.99340977,77.58506443,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:41",12.99335986,77.58507438,N,Level_0,None,Windsor Manor Bridge
+"06-09-2020 , 05:41",12.99331836,77.5850841,N,Level_0,None,Windsor Manor Bridge
+"06-09-2020 , 05:41",12.99327911,77.58509503,N,Level_0,None,Windsor Manor Bridge
+"06-09-2020 , 05:41",12.99324184,77.58510624,N,Level_0,None,Windsor Manor Bridge
+"06-09-2020 , 05:41",12.99318695,77.58513366,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:41",12.99315435,77.58515367,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:40",12.9931174,77.58516661,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:40",12.99308512,77.58518355,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:40",12.99304987,77.58520142,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:40",12.99300323,77.58522734,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:40",12.9929481,77.58526095,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:40",12.9928864,77.58528917,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:40",12.99282011,77.58531419,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:40",12.99274628,77.58532307,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:40",12.99258213,77.58533917,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:40",12.99240973,77.5853713,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:40",12.99230887,77.58538566,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:40",12.99221954,77.58539778,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:40",12.99213946,77.58541643,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:40",12.99205104,77.58542692,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:40",12.99196729,77.58544397,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:40",12.99189577,77.5854503,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:40",12.99181502,77.58545864,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:40",12.99173185,77.58547467,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:40",12.99165368,77.58549232,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:40",12.99157326,77.58550851,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:40",12.99149335,77.58551649,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:40",12.991415,77.58552585,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:40",12.99133453,77.58553535,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:40",12.99125711,77.58555063,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:40",12.99118102,77.58556717,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:40",12.99110532,77.58558251,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:40",12.99102587,77.58559833,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:40",12.99094461,77.58560838,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:40",12.99086412,77.58562466,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:40",12.99078773,77.58563541,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:40",12.99071008,77.58564678,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:40",12.99063566,77.58565964,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:40",12.99056497,77.58565822,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:40",12.99047725,77.58564388,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:40",12.9903992,77.58564758,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:40",12.99034039,77.58567034,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:40",12.99026642,77.5856786,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:40",12.99020207,77.58569923,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:40",12.99013193,77.5857139,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:40",12.99005899,77.58572714,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:40",12.98998135,77.58574033,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:40",12.98990203,77.58575308,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:40",12.98981962,77.58576392,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:40",12.98974226,77.58577944,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:40",12.98959164,77.585808,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:40",12.98951718,77.58581711,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:40",12.98944579,77.58582734,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:40",12.98936857,77.58584421,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:40",12.98928687,77.58586847,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:40",12.9892089,77.58590288,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:40",12.98913273,77.5859429,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:40",12.98906754,77.58598269,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:40",12.98900425,77.58602906,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:40",12.98893676,77.58608767,N,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:40",12.98887435,77.58614815,W,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:40",12.98881878,77.58621409,W,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:40",12.98875383,77.58628372,W,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:39",12.98869036,77.58635803,W,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:39",12.98862451,77.58643196,W,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:39",12.98856272,77.58651092,W,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:39",12.98849833,77.58658303,W,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:39",12.98843797,77.58665838,W,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:39",12.98838144,77.58673223,W,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:39",12.98832327,77.58680305,W,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:39",12.98820523,77.58694826,W,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:39",12.98814108,77.58702178,W,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:39",12.98801962,77.58716979,W,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:39",12.98795843,77.58723738,W,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:39",12.98789556,77.58731743,W,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:39",12.98783301,77.58739301,W,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:39",12.98776892,77.58747077,W,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:39",12.98770447,77.58754784,W,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:39",12.98764179,77.58762482,W,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:39",12.98757872,77.58770039,W,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:39",12.98751654,77.58777511,W,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:39",12.98745674,77.58784991,W,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:39",12.98739662,77.58792465,W,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:39",12.98733818,77.58799311,W,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:39",12.98727933,77.58806126,W,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:39",12.98722082,77.58812732,W,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:39",12.98716929,77.58819037,W,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:39",12.9871227,77.58825256,W,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:39",12.98707436,77.58831656,W,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:39",12.98702422,77.58838032,W,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:39",12.98697517,77.58843809,W,Level_0,None,Palace Road
+"06-09-2020 , 05:39",12.98692856,77.58849016,W,Level_0,None,Palace Road
+"06-09-2020 , 05:39",12.98683991,77.58859997,W,Level_0,None,Ubhayakar Circle
+"06-09-2020 , 05:39",12.98679955,77.58864638,W,Level_0,None,T Chowdiah Road
+"06-09-2020 , 05:39",12.98675721,77.58869605,N,Level_0,None,Palace Road
+"06-09-2020 , 05:39",12.98670019,77.58873443,N,Level_0,None,Palace Road
+"06-09-2020 , 05:39",12.98665063,77.58877349,N,Level_0,None,Palace Road
+"06-09-2020 , 05:39",12.98659832,77.58879075,N,Level_0,None,Palace Road
+"06-09-2020 , 05:39",12.98655179,77.58881329,N,Level_0,None,Palace Road
+"06-09-2020 , 05:39",12.98650434,77.58882967,N,Level_0,None,Palace Road
+"06-09-2020 , 05:39",12.98646154,77.58882246,N,Level_0,None,Palace Road
+"06-09-2020 , 05:39",12.98641721,77.58882126,N,Level_0,None,Palace Road
+"06-09-2020 , 05:39",12.98620792,77.5887306,N,Level_0,None,Palace Road
+"06-09-2020 , 05:39",12.98613033,77.58870771,N,Level_0,None,Palace Road
+"06-09-2020 , 05:39",12.98606983,77.58867982,N,Level_0,None,Palace Road
+"06-09-2020 , 05:39",12.98600801,77.58865737,N,Level_0,None,Palace Road
+"06-09-2020 , 05:39",12.98594933,77.58863658,N,Level_0,None,Palace Road
+"06-09-2020 , 05:39",12.98589106,77.58862165,N,Level_0,None,Palace Road
+"06-09-2020 , 05:39",12.98583546,77.58860013,N,Level_0,None,Palace Road
+"06-09-2020 , 05:39",12.98578684,77.58858166,N,Level_0,None,Basava Bhavana
+"06-09-2020 , 05:39",12.98558998,77.58850933,N,Level_0,None,Palace Road
+"06-09-2020 , 05:39",12.98552932,77.58848957,N,Level_0,None,Palace Road
+"06-09-2020 , 05:39",12.98546338,77.58846492,N,Level_0,None,Palace Road
+"06-09-2020 , 05:39",12.98539929,77.58844544,N,Level_0,None,Palace Road
+"06-09-2020 , 05:38",12.98533432,77.58842748,N,Level_0,None,Palace Road
+"06-09-2020 , 05:38",12.98526296,77.58841378,N,Level_0,None,Palace Road
+"06-09-2020 , 05:38",12.98513733,77.58836803,N,Level_0,None,Palace Road
+"06-09-2020 , 05:38",12.9850808,77.58834805,N,Level_0,None,Palace Road
+"06-09-2020 , 05:38",12.98503312,77.58832632,N,Level_0,None,Palace Road
+"06-09-2020 , 05:38",12.98499118,77.58830833,N,Level_0,None,Hotel Chalukya Junction
+"06-09-2020 , 05:38",12.98494372,77.5882992,N,Level_0,None,Hotel Chalukya Junction
+"06-09-2020 , 05:38",12.98489266,77.58829013,N,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:38",12.9848509,77.58829658,N,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:38",12.98480849,77.5883091,N,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:38",12.98473643,77.58837805,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:38",12.98470236,77.58842466,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:38",12.98468034,77.58846907,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:38",12.98466268,77.58851111,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:38",12.98462962,77.58856174,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:38",12.98460803,77.58861109,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:38",12.98459581,77.58867095,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:38",12.9845892,77.58872498,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:38",12.98456605,77.58878887,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:38",12.9845462,77.58884674,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:38",12.98451989,77.5889066,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:38",12.98449996,77.58897399,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:38",12.98447914,77.5890301,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:38",12.9844548,77.58908909,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:38",12.98444119,77.58913547,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:38",12.98441174,77.58919331,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:38",12.98435497,77.58930986,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:37",12.98431276,77.58932626,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:37",12.98428308,77.58934496,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:37",12.98427188,77.58937898,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:37",12.984257,77.5894147,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:37",12.98423362,77.58946389,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:37",12.98419828,77.58950743,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:37",12.98416535,77.58956185,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:37",12.98413914,77.58961316,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:37",12.98408535,77.58971739,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:37",12.984051,77.58976901,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:37",12.98401694,77.58983759,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:37",12.98398845,77.58989793,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:37",12.98396304,77.58995352,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:37",12.98393257,77.59002586,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:37",12.983915,77.5900884,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:37",12.98387557,77.59016299,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:37",12.98384871,77.59023308,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:37",12.98380625,77.59030092,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:37",12.98377983,77.59037365,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:37",12.98372669,77.59052162,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:37",12.98370027,77.59058338,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:37",12.98366738,77.59063287,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:37",12.98363914,77.59070753,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:37",12.98360756,77.59078691,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:37",12.98358464,77.59085868,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:37",12.98355713,77.59093297,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:37",12.98353045,77.59100539,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:37",12.98350717,77.59107397,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:37",12.9834906,77.591147,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:37",12.98347192,77.59119646,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:37",12.98346179,77.59124238,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:37",12.9834464,77.59131315,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:37",12.98341359,77.59136133,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:37",12.98338806,77.59141277,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:37",12.98336379,77.59147525,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:37",12.98334814,77.59153477,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:37",12.98327096,77.59171685,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:37",12.98324554,77.59177544,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:37",12.98321818,77.59183971,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:37",12.98316019,77.59197846,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:37",12.98313094,77.59204326,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:37",12.98310181,77.59210214,W,Level_0,None,Ali Askar Road
+"06-09-2020 , 05:37",12.98301497,77.59220878,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:37",12.98297049,77.59225346,N,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:36",12.9828068,77.59234852,N,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:36",12.98269499,77.59240978,N,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:36",12.98263504,77.59245025,N,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:36",12.98259492,77.59249562,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:36",12.98256152,77.59254019,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:36",12.98253897,77.59259089,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:36",12.98251778,77.59264419,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:36",12.98249653,77.59270096,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:36",12.9824727,77.59276224,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:36",12.98245121,77.59283036,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:36",12.98242939,77.59290099,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:36",12.9824011,77.59297128,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:36",12.98236928,77.59304134,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:36",12.98235004,77.59312734,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:36",12.98233608,77.59320306,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:36",12.98230579,77.59327365,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:36",12.98228724,77.5933478,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:36",12.98226663,77.5934204,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:36",12.98224561,77.59349472,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:36",12.98222132,77.59356946,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:36",12.98219912,77.59364554,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:36",12.98217978,77.59372135,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:36",12.98215739,77.59379316,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:36",12.9821421,77.59386537,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:36",12.98211418,77.59393807,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:36",12.98208046,77.59400828,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:36",12.98205413,77.59407656,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:36",12.98202622,77.59414691,W,Level_0,None,Dr B R Ambedkar Veedhi
+"06-09-2020 , 05:36",12.98200853,77.59421853,W,Level_0,None,Dr B R Ambedkar Veedhi
+"06-09-2020 , 05:36",12.9819876,77.59427884,W,Level_0,None,Dr B R Ambedkar Veedhi
+"06-09-2020 , 05:36",12.98197167,77.59434008,W,Level_0,None,Police Thimmaya Circle
+"06-09-2020 , 05:36",12.98195636,77.59440561,W,Level_0,None,Police Thimmaya Circle
+"06-09-2020 , 05:36",12.98192865,77.59448163,W,Level_0,None,Police Thimmaya Circle
+"06-09-2020 , 05:36",12.98188831,77.59462037,W,Level_0,None,Police Thimmaya Circle
+"06-09-2020 , 05:36",12.98184737,77.59469704,W,Level_0,None,Police Thimmaya Circle
+"06-09-2020 , 05:36",12.98180281,77.59487091,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:36",12.98179195,77.59492053,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:36",12.98177684,77.594975,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:36",12.98176313,77.59502644,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:36",12.98175578,77.59508122,W,Level_0,None,Raj Bhavan Road
+"06-09-2020 , 05:36",12.9817369,77.59514133,W,Level_0,None,Namma Metro UG2
+"06-09-2020 , 05:36",12.98171172,77.59520143,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:36",12.98170138,77.59524475,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:36",12.98168328,77.59528791,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:36",12.98166863,77.59534461,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:36",12.98164663,77.59539847,W,Level_0,None,Namma Metro UG2
+"06-09-2020 , 05:36",12.98162604,77.59546005,W,Level_0,None,Namma Metro UG2
+"06-09-2020 , 05:36",12.98160975,77.59552205,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:36",12.98158653,77.59557206,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:36",12.98157059,77.59562282,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:36",12.98154577,77.5956886,W,Level_0,None,Namma Metro UG2
+"06-09-2020 , 05:36",12.98153383,77.59575355,W,Level_0,None,Namma Metro UG2
+"06-09-2020 , 05:36",12.98151256,77.59582307,W,Level_0,None,Namma Metro UG2
+"06-09-2020 , 05:36",12.98148849,77.59589332,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:35",12.98146988,77.59596473,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:35",12.9814391,77.59603577,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:35",12.98141463,77.59610914,W,Level_0,None,Namma Metro UG2
+"06-09-2020 , 05:35",12.98139404,77.59617599,W,Level_0,None,Namma Metro UG2
+"06-09-2020 , 05:35",12.98137027,77.59624682,W,Level_0,None,Namma Metro UG2
+"06-09-2020 , 05:35",12.98134775,77.59632088,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:35",12.981323,77.59639425,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:35",12.98129979,77.59646814,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:35",12.9812757,77.5965461,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:35",12.98124838,77.5966174,W,Level_0,None,Namma Metro UG2
+"06-09-2020 , 05:35",12.98122488,77.59669131,W,Level_0,None,Namma Metro UG2
+"06-09-2020 , 05:35",12.98119977,77.59676275,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:35",12.98117672,77.59683056,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:35",12.98115331,77.59689376,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:35",12.9811257,77.59694745,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:35",12.98109122,77.5969951,W,Level_0,None,Minsk Square
+"06-09-2020 , 05:35",12.98105764,77.59703386,W,Level_0,None,Minsk Square
+"06-09-2020 , 05:35",12.98101529,77.59707939,W,Level_0,None,Queen's Road
+"06-09-2020 , 05:35",12.98092552,77.59716442,W,Level_0,None,Queen's Road
+"06-09-2020 , 05:35",12.98088184,77.59720619,N,Level_0,None,Cubbon Road
+"06-09-2020 , 05:35",12.98083879,77.59723931,N,Level_0,None,Cubbon Road
+"06-09-2020 , 05:35",12.98079753,77.59726926,N,Level_0,None,Cubbon Road
+"06-09-2020 , 05:35",12.98073954,77.5972984,N,Level_0,None,Queen's Road
+"06-09-2020 , 05:35",12.98070159,77.59732918,N,Level_0,None,Queen's Road
+"06-09-2020 , 05:35",12.98066505,77.59735805,N,Level_0,None,Queen's Road
+"06-09-2020 , 05:35",12.98063376,77.59738269,N,Level_0,None,Queen's Road
+"06-09-2020 , 05:35",12.98060989,77.5974013,N,Level_0,None,Queen's Road
+"06-09-2020 , 05:34",12.98048682,77.59748274,N,Level_0,None,Queen's Road
+"06-09-2020 , 05:34",12.9804041,77.59752479,N,Level_0,None,Queen's Road
+"06-09-2020 , 05:34",12.98037694,77.59753818,N,Level_0,None,Queen's Road
+"06-09-2020 , 05:34",12.98032416,77.59756203,N,Level_0,None,Queen's Road
+"06-09-2020 , 05:34",12.98028831,77.5975766,N,Level_0,None,Queen's Road
+"06-09-2020 , 05:34",12.98024452,77.59759651,N,Level_0,None,Queen's Road
+"06-09-2020 , 05:34",12.98019427,77.59761744,N,Level_0,None,Queen's Road
+"06-09-2020 , 05:34",12.98013904,77.59764564,N,Level_0,None,Queen's Road
+"06-09-2020 , 05:34",12.98007576,77.59767201,N,Level_0,None,Queen's Road
+"06-09-2020 , 05:34",12.98001185,77.59770446,N,Level_0,None,Queen's Road
+"06-09-2020 , 05:34",12.97994934,77.59773091,N,Level_0,None,Queen's Road
+"06-09-2020 , 05:34",12.97988739,77.59775965,N,Level_0,None,Queen's Road
+"06-09-2020 , 05:34",12.97981952,77.59778809,N,Level_0,None,Queen's Road
+"06-09-2020 , 05:34",12.97975471,77.5978276,N,Level_0,None,Queen's Road
+"06-09-2020 , 05:34",12.97968232,77.59785474,N,Level_0,None,Queen's Road
+"06-09-2020 , 05:34",12.97961792,77.59788505,N,Level_0,None,Queen's Road
+"06-09-2020 , 05:34",12.97954781,77.59791161,N,Level_0,None,Queen's Road
+"06-09-2020 , 05:34",12.97947666,77.59793831,N,Level_0,None,Queen's Road
+"06-09-2020 , 05:34",12.97941085,77.59796948,N,Level_0,None,Queen's Road
+"06-09-2020 , 05:34",12.97934197,77.59800002,N,Level_0,None,Queen's Road
+"06-09-2020 , 05:34",12.97926979,77.59803124,N,Level_0,None,Queen's Road
+"06-09-2020 , 05:34",12.97919719,77.5980601,N,Level_0,None,Queen's Road
+"06-09-2020 , 05:34",12.9791324,77.59809654,N,Level_0,None,Queen's Road
+"06-09-2020 , 05:34",12.97906275,77.59812619,N,Level_0,None,Queen's Road
+"06-09-2020 , 05:34",12.97898959,77.59816044,N,Level_0,None,Queen's Road
+"06-09-2020 , 05:34",12.97890453,77.59820491,N,Level_0,None,Queen's Road
+"06-09-2020 , 05:34",12.97883324,77.59823951,N,Level_0,None,Queen's Road
+"06-09-2020 , 05:34",12.97875181,77.59827722,N,Level_0,None,Queen's Road
+"06-09-2020 , 05:34",12.97867065,77.5983193,N,Level_0,None,Queen's Road
+"06-09-2020 , 05:34",12.97858625,77.59835606,N,Level_0,None,Queen's Road
+"06-09-2020 , 05:34",12.97850489,77.59839249,N,Level_0,None,Queen's Road
+"06-09-2020 , 05:34",12.97842613,77.59843022,N,Level_0,None,Queen's Road
+"06-09-2020 , 05:34",12.97835072,77.59846536,N,Level_0,None,Queen's Road
+"06-09-2020 , 05:34",12.97828617,77.59848962,N,Level_0,None,Queen's Road
+"06-09-2020 , 05:34",12.97822041,77.5985201,N,Level_0,None,Queen's Road
+"06-09-2020 , 05:34",12.97815661,77.59854593,N,Level_0,None,Queen's Road
+"06-09-2020 , 05:34",12.97809162,77.59857837,N,Level_0,None,Queen's Road
+"06-09-2020 , 05:34",12.97802278,77.5986112,N,Level_0,None,Queen's Road
+"06-09-2020 , 05:34",12.97794924,77.59863824,N,Level_0,None,Chinnaswamy Stadium
+"06-09-2020 , 05:34",12.97788341,77.59867862,N,Level_0,None,Chinnaswamy Stadium
+"06-09-2020 , 05:34",12.9778138,77.59870871,N,Level_0,None,Queen's Road
+"06-09-2020 , 05:34",12.97774155,77.59874111,N,Level_0,None,Queen's Road
+"06-09-2020 , 05:34",12.97766888,77.59877764,N,Level_0,None,Queen's Road
+"06-09-2020 , 05:34",12.977611,77.59880773,N,Level_0,None,Queen's Road
+"06-09-2020 , 05:33",12.97754479,77.59883391,N,Level_0,None,Queen's Road
+"06-09-2020 , 05:33",12.97747465,77.5988657,N,Level_0,None,Queen's Road
+"06-09-2020 , 05:33",12.97740535,77.59889466,N,Level_0,None,Queen's Road
+"06-09-2020 , 05:33",12.97733284,77.59892079,N,Level_0,None,Queen's Road
+"06-09-2020 , 05:33",12.97727479,77.59895932,N,Level_0,None,Queen's Road
+"06-09-2020 , 05:33",12.97721223,77.59899553,N,Level_0,None,Queen's Road
+"06-09-2020 , 05:33",12.97715005,77.59902869,N,Level_0,None,Queen's Road
+"06-09-2020 , 05:33",12.97707511,77.59907272,N,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:33",12.97700822,77.59909962,N,Level_0,None,Mahatma Gandhi Circle
+"06-09-2020 , 05:33",12.97694603,77.59913494,N,Level_0,None,Mahatma Gandhi Circle
+"06-09-2020 , 05:33",12.97687975,77.59915224,N,Level_0,None,Kasturba Road
+"06-09-2020 , 05:33",12.97682398,77.59917366,N,Level_0,None,Kasturba Road
+"06-09-2020 , 05:33",12.97676055,77.59916661,N,Level_0,None,Kasturba Road
+"06-09-2020 , 05:33",12.97670209,77.59916425,N,Level_0,None,Kasturba Road
+"06-09-2020 , 05:33",12.97664284,77.5991445,N,Level_0,None,Kasturba Road
+"06-09-2020 , 05:33",12.97658687,77.59911454,N,Level_0,None,Kasturba Road
+"06-09-2020 , 05:33",12.97653506,77.59908366,N,Level_0,None,Kasturba Road
+"06-09-2020 , 05:33",12.97647711,77.59904892,N,Level_0,None,Kasturba Road
+"06-09-2020 , 05:33",12.97643031,77.59900484,N,Level_0,None,Kasturba Road
+"06-09-2020 , 05:33",12.97633957,77.59890707,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:33",12.97630429,77.59886854,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:33",12.97627235,77.59881937,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:33",12.97624282,77.59876791,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:33",12.97622773,77.59871217,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:33",12.97619999,77.59867466,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:33",12.97617304,77.59864004,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:33",12.97615026,77.59861079,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:33",12.9761304,77.59858435,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:33",12.97611278,77.59855969,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:33",12.97609057,77.59852272,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:32",12.97607975,77.59849564,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:32",12.9760802,77.59846789,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:32",12.97606398,77.59844332,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:31",12.97605815,77.59841514,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:31",12.97604483,77.59838602,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:31",12.97602856,77.59836335,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:31",12.97600445,77.59833241,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:31",12.97598303,77.59830175,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:31",12.97596054,77.59826696,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:31",12.97593326,77.5982358,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:31",12.97591527,77.59819868,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:31",12.9758915,77.59816055,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:31",12.97586618,77.59811831,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:31",12.97583193,77.59807739,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:31",12.97579466,77.59802641,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:31",12.97574793,77.59795793,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:31",12.97570413,77.59790001,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:31",12.97562021,77.59778619,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:31",12.97557584,77.59772815,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:31",12.97552822,77.59766512,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:31",12.97548004,77.59760086,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:31",12.97542292,77.59753467,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:31",12.97537477,77.59747309,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:31",12.97529808,77.59736011,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:31",12.97525773,77.59729065,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:31",12.9752189,77.59723339,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:31",12.9751635,77.59716143,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:31",12.97512264,77.5971013,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:31",12.97508148,77.59703643,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:31",12.97503595,77.59697827,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:31",12.9749896,77.59691526,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:31",12.97493906,77.59684639,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:31",12.97489005,77.59678171,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:31",12.97483998,77.59672068,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:31",12.97479015,77.59665883,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:31",12.97474255,77.59660038,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:31",12.97469724,77.59654316,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:31",12.97465249,77.59648427,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:31",12.97455299,77.59636129,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:31",12.97449568,77.59630008,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:31",12.97443679,77.59623424,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:31",12.97437779,77.59616902,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:31",12.97432089,77.59610239,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:31",12.97426457,77.5960389,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:31",12.97420418,77.59597525,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:31",12.97415439,77.59591345,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:31",12.97410625,77.59585757,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:31",12.97405873,77.59579751,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:31",12.9740026,77.59573691,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:31",12.9739502,77.5956804,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:31",12.97389836,77.59562706,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:31",12.97384988,77.59556343,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:31",12.97380646,77.59551143,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:31",12.97376361,77.59546173,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:30",12.97372155,77.59541572,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:30",12.97368207,77.59536979,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:30",12.97364043,77.59532924,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:30",12.97359527,77.59528759,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:30",12.97356232,77.59524882,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:30",12.97352513,77.59520962,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:30",12.97349137,77.59517201,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:30",12.97346003,77.59513443,N,Level_0,None,Kasturba Road
+"06-09-2020 , 05:30",12.97342136,77.59508637,N,Level_0,None,Kasturba Road
+"06-09-2020 , 05:30",12.97338276,77.59505624,N,Level_0,None,Kasturba Road
+"06-09-2020 , 05:30",12.97334213,77.59502407,N,Level_0,None,Kasturba Road
+"06-09-2020 , 05:30",12.97330917,77.59498972,N,Level_0,None,Kasturba Road
+"06-09-2020 , 05:30",12.97328341,77.59495496,N,Level_0,None,Kasturba Road
+"06-09-2020 , 05:30",12.97324434,77.59492517,N,Level_0,None,Kasturba Road
+"06-09-2020 , 05:30",12.97320127,77.59489116,N,Level_0,None,Kasturba Road
+"06-09-2020 , 05:30",12.97317027,77.59485808,N,Level_0,None,Kasturba Road
+"06-09-2020 , 05:30",12.97312788,77.5948179,N,Level_0,None,Kasturba Road
+"06-09-2020 , 05:30",12.97309242,77.59479176,N,Level_0,None,Kasturba Road
+"06-09-2020 , 05:30",12.97305887,77.59476548,N,Level_0,None,Kasturba Road
+"06-09-2020 , 05:30",12.97302337,77.59473783,N,Level_0,None,Kasturba Road
+"06-09-2020 , 05:30",12.97298262,77.59470697,N,Level_0,None,Kasturba Road
+"06-09-2020 , 05:30",12.97293768,77.59467601,N,Level_0,None,Kasturba Road
+"06-09-2020 , 05:30",12.97289762,77.59464545,N,Level_0,None,Kasturba Road
+"06-09-2020 , 05:30",12.97283457,77.59457835,N,Level_0,None,Kasturba Road
+"06-09-2020 , 05:30",12.97278359,77.59454831,N,Level_0,None,Kasturba Road
+"06-09-2020 , 05:30",12.97275765,77.59451928,N,Level_0,None,Kasturba Road
+"06-09-2020 , 05:30",12.9727122,77.5944814,N,Level_0,None,Kasturba Road
+"06-09-2020 , 05:30",12.97267552,77.59445578,N,Level_0,None,Kasturba Road
+"06-09-2020 , 05:30",12.97263835,77.59442951,N,Level_0,None,Kasturba Road
+"06-09-2020 , 05:30",12.97260316,77.59440487,N,Level_0,None,Kasturba Road
+"06-09-2020 , 05:30",12.97257371,77.59438417,N,Level_0,None,Kasturba Road
+"06-09-2020 , 05:30",12.97254045,77.59435237,N,Level_0,None,Kasturba Road
+"06-09-2020 , 05:30",12.97251293,77.59432166,N,Level_0,None,Kasturba Road
+"06-09-2020 , 05:30",12.97248697,77.59428755,N,Level_0,None,Kasturba Road
+"06-09-2020 , 05:30",12.97244637,77.59425383,N,Level_0,None,Kasturba Road
+"06-09-2020 , 05:30",12.97241207,77.59420906,N,Level_0,None,Kasturba Road
+"06-09-2020 , 05:30",12.97238674,77.59418329,N,Level_0,None,Kasturba Road
+"06-09-2020 , 05:30",12.97235261,77.59415324,N,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:30",12.97231317,77.59412191,N,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:30",12.97227029,77.59407518,N,Level_0,None,#
+"06-09-2020 , 05:30",12.97223708,77.59404006,N,Level_0,None,#
+"06-09-2020 , 05:30",12.97220117,77.59400535,N,Level_0,None,#
+"06-09-2020 , 05:30",12.97216905,77.59396977,N,Level_0,None,#
+"06-09-2020 , 05:30",12.97207882,77.5938659,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:30",12.97205415,77.59383436,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:30",12.97202418,77.59379915,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:30",12.97198951,77.59376611,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:30",12.97193839,77.59370738,E,Level_0,None,#
+"06-09-2020 , 05:30",12.97191938,77.59367955,E,Level_0,None,#
+"06-09-2020 , 05:30",12.97189818,77.5936554,E,Level_0,None,#
+"06-09-2020 , 05:30",12.97187783,77.59363363,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:29",12.9718542,77.5936051,N,Level_0,None,Kasturba Road
+"06-09-2020 , 05:29",12.97182303,77.59357416,N,Level_0,None,Kasturba Road
+"06-09-2020 , 05:29",12.97178798,77.59353498,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:29",12.97174228,77.59349025,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:29",12.97168639,77.59342673,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:29",12.97164367,77.59336497,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:29",12.97160135,77.59330481,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:29",12.97155234,77.59323548,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:29",12.97150314,77.59318404,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:29",12.9714494,77.59312776,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:29",12.9713949,77.59307508,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:29",12.97134259,77.59302022,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:29",12.97129568,77.59297152,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:29",12.97125119,77.59291643,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:29",12.97120315,77.59287132,N,Level_0,None,Kasturba Road
+"06-09-2020 , 05:29",12.97113868,77.59280622,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:29",12.971101,77.59276495,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:29",12.97104856,77.59270417,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:29",12.9709924,77.59264191,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:29",12.97094277,77.59258222,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:29",12.9708968,77.59252021,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:29",12.97084762,77.59244891,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:29",12.97079278,77.59238914,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:29",12.97074885,77.5923185,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:29",12.97070285,77.59226624,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:29",12.97065614,77.59221554,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:29",12.9706178,77.592164,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:29",12.97058196,77.59211621,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:29",12.97054612,77.59207929,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:29",12.97050739,77.59203467,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:29",12.97047289,77.59199651,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:29",12.97043536,77.59195021,N,Level_0,None,Kasturba Road
+"06-09-2020 , 05:29",12.97040259,77.59190076,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:29",12.97037716,77.59187173,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:29",12.97035009,77.5918351,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:29",12.97031798,77.59180389,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:29",12.97028814,77.59177132,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:29",12.97024658,77.59171953,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:29",12.97020518,77.59166716,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:29",12.97013448,77.59158273,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:29",12.97007947,77.59152368,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:29",12.97002159,77.59146338,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:29",12.96996906,77.59140372,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:29",12.96991353,77.59135426,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:29",12.96985635,77.59128765,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:29",12.96980712,77.5912292,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:29",12.9697566,77.59116805,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:29",12.96970183,77.59110837,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:29",12.96964889,77.59104877,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:29",12.96959943,77.59100352,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:29",12.9695525,77.5909539,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:29",12.96950693,77.59088408,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:29",12.96946106,77.59081658,N,Level_0,None,Kasturba Road
+"06-09-2020 , 05:29",12.96941923,77.59075932,N,Level_0,None,Kasturba Road
+"06-09-2020 , 05:29",12.96936392,77.59069899,N,Level_0,None,Kasturba Road
+"06-09-2020 , 05:29",12.96932076,77.59064917,N,Level_0,None,Kasturba Road
+"06-09-2020 , 05:29",12.96927239,77.59059773,N,Level_0,None,Kasturba Road
+"06-09-2020 , 05:29",12.96922055,77.59054116,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:29",12.96917404,77.59048531,N,Level_0,None,Kasturba Road
+"06-09-2020 , 05:29",12.96912287,77.59043868,N,Level_0,None,Kasturba Road
+"06-09-2020 , 05:28",12.96908453,77.59039268,N,Level_0,None,Kasturba Road
+"06-09-2020 , 05:28",12.96903389,77.590336,N,Level_0,None,Kasturba Road
+"06-09-2020 , 05:28",12.96898728,77.59029153,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:28",12.96893661,77.59024032,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:28",12.96888332,77.59018533,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:28",12.96883804,77.59014039,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:28",12.96879468,77.59008862,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:28",12.96874479,77.59003191,E,Level_0,None, Corporation Circle
+"06-09-2020 , 05:28",12.968702,77.58998496,E,Level_0,None,Cubbon Park
+"06-09-2020 , 05:28",12.96865207,77.58993665,E,Level_0,None, Corporation Circle
+"06-09-2020 , 05:28",12.96860788,77.58988949,E,Level_0,None,Cubbon Park
+"06-09-2020 , 05:28",12.96855545,77.58983466,E,Level_0,None, Corporation Circle
+"06-09-2020 , 05:28",12.96850495,77.58978463,E,Level_0,None,Cubbon Park
+"06-09-2020 , 05:28",12.96846428,77.58973421,E,Level_0,None, Corporation Circle
+"06-09-2020 , 05:28",12.96842225,77.58967771,E,Level_0,None,Cubbon Park
+"06-09-2020 , 05:28",12.9683897,77.58963904,E,Level_0,None, Corporation Circle
+"06-09-2020 , 05:28",12.96834693,77.58958376,E,Level_0,None,Cubbon Park
+"06-09-2020 , 05:28",12.96830354,77.58953498,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:28",12.96826045,77.5894864,E,Level_0,None,Kasturba Road
+"06-09-2020 , 05:28",12.96821486,77.58943565,E,Level_0,None,Proposed Hudson Cricle - Minerva Circle Flyover
+"06-09-2020 , 05:28",12.96816537,77.58938166,E,Level_0,None,Proposed Hudson Cricle - Minerva Circle Flyover
+"06-09-2020 , 05:28",12.9681178,77.58933575,E,Level_0,None,Proposed Hudson Cricle - Minerva Circle Flyover
+"06-09-2020 , 05:28",12.96807053,77.58929597,N,Level_0,None,Kasturba Road
+"06-09-2020 , 05:28",12.96802787,77.58926003,N,Level_0,None,Kasturba Road
+"06-09-2020 , 05:28",12.96798864,77.58923353,N,Level_0,None,Kasturba Road
+"06-09-2020 , 05:28",12.96794723,77.58921724,N,Level_0,None,Kasturba Road
+"06-09-2020 , 05:28",12.96789647,77.58920802,N,Level_0,None,Used Car Sales
+"06-09-2020 , 05:28",12.96785336,77.58921071,N,Level_0,None,Used Car Sales
+"06-09-2020 , 05:28",12.96781187,77.5892309,N,Level_0,None,Used Car Sales
+"06-09-2020 , 05:28",12.96778176,77.58926413,W,Level_0,None,Devanga Hostel Road
+"06-09-2020 , 05:28",12.96775741,77.58930952,W,Level_0,None,Devanga Hostel Road
+"06-09-2020 , 05:28",12.96773793,77.58936142,W,Level_0,None,Devanga Hostel Road
+"06-09-2020 , 05:28",12.96772774,77.58942257,W,Level_0,None,Rajaram Mohan Roy Road
+"06-09-2020 , 05:28",12.96772363,77.58948425,W,Level_0,None,Rajaram Mohan Roy Road
+"06-09-2020 , 05:28",12.96771973,77.58955747,W,Level_0,None,Rajaram Mohan Roy Road
+"06-09-2020 , 05:28",12.96771976,77.58970912,W,Level_0,None,8th Main Road
+"06-09-2020 , 05:28",12.9677219,77.58978391,W,Level_0,None,8th Main Road
+"06-09-2020 , 05:28",12.96772358,77.58986607,W,Level_0,None,Rajaram Mohan Roy Road
+"06-09-2020 , 05:28",12.96773285,77.59002259,W,Level_0,None,Rajaram Mohan Roy Road
+"06-09-2020 , 05:28",12.96773951,77.59010733,W,Level_0,None,Rajaram Mohan Roy Road
+"06-09-2020 , 05:28",12.96774582,77.59018698,W,Level_0,None,Rajaram Mohan Roy Road
+"06-09-2020 , 05:28",12.96775656,77.59027306,W,Level_0,None,Rajaram Mohan Roy Road
+"06-09-2020 , 05:28",12.96777558,77.59036902,W,Level_0,None,Rajaram Mohan Roy Road
+"06-09-2020 , 05:28",12.96778901,77.59045824,W,Level_0,None,Hudson Circle
+"06-09-2020 , 05:28",12.96780472,77.59054906,W,Level_0,None,Hudson Circle
+"06-09-2020 , 05:28",12.96780096,77.59064962,W,Level_0,None,Hudson Circle
+"06-09-2020 , 05:28",12.96783293,77.59078997,W,Level_0,None,Rajaram Mohan Roy Road
+"06-09-2020 , 05:28",12.96785755,77.59086599,W,Level_0,None,Rajaram Mohan Roy Road
+"06-09-2020 , 05:28",12.96788487,77.59093468,W,Level_0,None,Rajaram Mohan Roy Road
+"06-09-2020 , 05:28",12.96791544,77.5909905,W,Level_0,None,Rajaram Mohan Roy Road
+"06-09-2020 , 05:28",12.96794542,77.59106187,W,Level_0,None,Rajaram Mohan Roy Road
+"06-09-2020 , 05:28",12.96797561,77.5911399,W,Level_0,None,Rajaram Mohan Roy Road
+"06-09-2020 , 05:28",12.96800181,77.59121631,W,Level_0,None,Rajaram Mohan Roy Road
+"06-09-2020 , 05:28",12.96802571,77.59129292,W,Level_0,None,8th Main Road
+"06-09-2020 , 05:28",12.96804713,77.59136793,W,Level_0,None,8th Main Road
+"06-09-2020 , 05:28",12.96806593,77.59144777,W,Level_0,None,8th Main Road
+"06-09-2020 , 05:28",12.96807594,77.59152036,W,Level_0,None,Rajaram Mohan Roy Road
+"06-09-2020 , 05:27",12.96808835,77.59159976,W,Level_0,None,Rajaram Mohan Roy Road
+"06-09-2020 , 05:27",12.96810003,77.59167466,W,Level_0,None,Rajaram Mohan Roy Road
+"06-09-2020 , 05:27",12.96810236,77.59175164,W,Level_0,None,Rajaram Mohan Roy Road
+"06-09-2020 , 05:27",12.96810878,77.59182228,W,Level_0,None,Rajaram Mohan Roy Road
+"06-09-2020 , 05:27",12.96810479,77.59190092,W,Level_0,None,State Bank ATM
+"06-09-2020 , 05:27",12.96809812,77.59197844,W,Level_0,None,State Bank ATM
+"06-09-2020 , 05:27",12.96809208,77.5920563,W,Level_0,None,Rajaram Mohan Roy Road
+"06-09-2020 , 05:27",12.96808144,77.59213985,W,Level_0,None,Rajaram Mohan Roy Road
+"06-09-2020 , 05:27",12.9680644,77.59222229,W,Level_0,None,Rajaram Mohan Roy Road
+"06-09-2020 , 05:27",12.96805203,77.59229568,W,Level_0,None,Rajaram Mohan Roy Road
+"06-09-2020 , 05:27",12.9680385,77.59235676,W,Level_0,None,Rajaram Mohan Roy Road
+"06-09-2020 , 05:27",12.96802602,77.5924228,W,Level_0,None,Rajaram Mohan Roy Road
+"06-09-2020 , 05:27",12.9680154,77.59248459,W,Level_0,None,Rajaram Mohan Roy Road
+"06-09-2020 , 05:27",12.9679804,77.59258002,W,Level_0,None,Rajaram Mohan Roy Road
+"06-09-2020 , 05:27",12.96795769,77.59265412,W,Level_0,None,Chidananda Maharashi Ashram Road
+"06-09-2020 , 05:27",12.96795212,77.5927308,W,Level_0,None,Mishra Pedha
+"06-09-2020 , 05:27",12.96794183,77.59281803,W,Level_0,None,Mishra Pedha
+"06-09-2020 , 05:27",12.96792877,77.59290366,W,Level_0,None,Rajaram Mohan Roy Road
+"06-09-2020 , 05:27",12.9679095,77.5929831,W,Level_0,None,Rajaram Mohan Roy Road
+"06-09-2020 , 05:27",12.96787695,77.59307137,W,Level_0,None,Rajaram Mohan Roy Road
+"06-09-2020 , 05:27",12.96786527,77.59314774,W,Level_0,None,Rajaram Mohan Roy Road
+"06-09-2020 , 05:27",12.96785257,77.59322454,W,Level_0,None,Rajaram Mohan Roy Road
+"06-09-2020 , 05:27",12.96784019,77.59330269,W,Level_0,None,Rajaram Mohan Roy Road
+"06-09-2020 , 05:27",12.96782864,77.59337821,W,Level_0,None,Rajaram Mohan Roy Road
+"06-09-2020 , 05:27",12.96781237,77.59345318,W,Level_0,None,Rajaram Mohan Roy Road
+"06-09-2020 , 05:27",12.96778951,77.5935261,W,Level_0,None,Rajaram Mohan Roy Road
+"06-09-2020 , 05:27",12.9677645,77.59360112,W,Level_0,None,3rd Main Road
+"06-09-2020 , 05:27",12.9677416,77.59368066,W,Level_0,None,3rd Main Road
+"06-09-2020 , 05:27",12.96771977,77.59375484,W,Level_0,None,Rajaram Mohan Roy Road
+"06-09-2020 , 05:27",12.9676886,77.59383388,W,Level_0,None,Rajaram Mohan Roy Road
+"06-09-2020 , 05:27",12.96765786,77.59390834,W,Level_0,None,Rajaram Mohan Roy Road
+"06-09-2020 , 05:27",12.96762644,77.59397293,W,Level_0,None,Rajaram Mohan Roy Road
+"06-09-2020 , 05:27",12.96759748,77.59403942,W,Level_0,None,Rajaram Mohan Roy Road
+"06-09-2020 , 05:27",12.9675691,77.59410596,W,Level_0,None,Rajaram Mohan Roy Road
+"06-09-2020 , 05:27",12.96749852,77.59422027,W,Level_0,None,Rajaram Mohan Roy Road
+"06-09-2020 , 05:27",12.96739603,77.59432466,N,Level_0,None,Rajaram Mohan Roy Road
+"06-09-2020 , 05:27",12.96735709,77.5943573,N,Level_0,None,Rajaram Mohan Roy Road
+"06-09-2020 , 05:27",12.96732564,77.59439097,N,Level_0,None,Rajaram Mohan Roy Road
+"06-09-2020 , 05:27",12.96729821,77.59443151,N,Level_0,None,Rajaram Mohan Roy Road
+"06-09-2020 , 05:27",12.96726486,77.59446917,N,Level_0,None,Rajaram Mohan Roy Road
+"06-09-2020 , 05:27",12.96723534,77.59449896,N,Level_0,None,Sri Ram Mandir Road
+"06-09-2020 , 05:27",12.96720198,77.59453201,W,Level_0,None,Sri Ram Mandir Road
+"06-09-2020 , 05:27",12.96717445,77.59455974,W,Level_0,None,Sri Ram Mandir Road
+"06-09-2020 , 05:27",12.96713389,77.59462183,W,Level_0,None,Sri Ram Mandir Road
+"06-09-2020 , 05:27",12.96712342,77.59464746,W,Level_0,None,Sri Ram Mandir Road
+"06-09-2020 , 05:27",12.96712143,77.59468053,W,Level_0,None,Sri Ram Mandir Road
+"06-09-2020 , 05:27",12.96712651,77.59471814,W,Level_0,None,Sri Ram Mandir Road
+"06-09-2020 , 05:27",12.96713498,77.59475588,W,Level_0,None,Sri Ram Mandir Road
+"06-09-2020 , 05:27",12.96715368,77.59479373,W,Level_0,None,Sri Ram Mandir Road
+"06-09-2020 , 05:27",12.96718941,77.59483875,S,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:27",12.96727545,77.59490381,S,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:27",12.96741771,77.59492963,S,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:27",12.96747738,77.59492416,S,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:27",12.96753677,77.59491356,S,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:26",12.96760614,77.59490599,S,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:26",12.96766827,77.59489538,S,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:26",12.96772916,77.59487864,S,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:26",12.96779579,77.59486008,S,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:26",12.96793897,77.59483518,S,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:26",12.96800229,77.59482314,S,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:26",12.96807188,77.5948068,S,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:26",12.9681395,77.59479213,S,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:26",12.96821111,77.59477264,S,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:26",12.96829149,77.59475104,S,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:26",12.96836989,77.59473284,S,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:26",12.96843896,77.59471893,S,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:26",12.96850685,77.59470188,S,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:26",12.96857083,77.59468906,S,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:26",12.96862511,77.59467733,S,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:26",12.96867893,77.59466418,S,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:26",12.96873706,77.59464832,S,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:26",12.96879851,77.59463504,S,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:26",12.9688648,77.5946214,S,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:26",12.9689308,77.59460727,S,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:26",12.96900534,77.59459107,S,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:26",12.96908425,77.59456976,S,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:26",12.9691623,77.5945507,S,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:26",12.96931887,77.59451765,S,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:26",12.9693978,77.59450604,S,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:26",12.96947096,77.59448431,S,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:26",12.96954685,77.59446357,S,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:26",12.96961806,77.59445008,S,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:26",12.96969586,77.59443201,S,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:26",12.96977116,77.59441609,S,Level_0,None,Mallya Hospital
+"06-09-2020 , 05:26",12.96984633,77.59439864,S,Level_0,None,Mallya Hospital
+"06-09-2020 , 05:26",12.96992258,77.59438109,S,Level_0,None,Mallya Hospital
+"06-09-2020 , 05:26",12.96999993,77.59436317,S,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:26",12.97007202,77.59435023,S,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:26",12.97014631,77.59433533,S,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:26",12.9702189,77.59431647,S,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:26",12.97029437,77.59430087,S,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:26",12.97036822,77.59428764,S,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:26",12.97043486,77.59427377,S,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:26",12.97056446,77.59424548,S,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:26",12.9706223,77.59423787,S,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:26",12.97073753,77.59420955,S,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:26",12.97080395,77.59419729,S,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:26",12.9708764,77.59418429,S,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:26",12.97094649,77.59416921,S,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:26",12.97101333,77.59415685,S,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:26",12.97107416,77.59413891,S,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:26",12.97113145,77.59413243,S,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:26",12.97118916,77.59412588,S,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:26",12.97125564,77.5941122,S,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:26",12.97131649,77.59410463,S,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:26",12.97137649,77.59409064,S,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:26",12.97143255,77.59407434,S,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:26",12.97149402,77.59406145,S,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:26",12.97155399,77.59404576,S,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:26",12.97161239,77.59403168,S,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:25",12.97166543,77.59401673,S,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:25",12.97170971,77.59399718,S,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:25",12.97175314,77.59398683,S,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:25",12.97189976,77.59401213,S,Level_0,None,Kasturba Road
+"06-09-2020 , 05:25",12.97193271,77.59403246,S,Level_0,None,ionising radiation tower (Road side) Pole Mounted
+"06-09-2020 , 05:25",12.97195508,77.59405881,W,Level_0,None,ionising radiation tower (Road side) Pole Mounted
+"06-09-2020 , 05:25",12.9719859,77.59409449,W,Level_0,None,ionising radiation tower (Road side) Pole Mounted
+"06-09-2020 , 05:25",12.97200319,77.59412622,W,Level_0,None,ionising radiation tower (Road side) Pole Mounted
+"06-09-2020 , 05:25",12.97202666,77.59419002,W,Level_0,None,ionising radiation tower (Road side) Pole Mounted
+"06-09-2020 , 05:25",12.97201756,77.59422814,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:25",12.97202212,77.59427662,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:25",12.97200564,77.59432477,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:25",12.97197911,77.59443302,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:25",12.97197277,77.59449235,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:25",12.97196954,77.59454807,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:25",12.97193882,77.59461289,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:25",12.97191024,77.59466551,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:25",12.97187902,77.59473538,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:25",12.97184891,77.59480221,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:25",12.97181503,77.59493997,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:25",12.9718073,77.59500477,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:25",12.9717851,77.59508399,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:25",12.97175294,77.59516881,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:25",12.97172032,77.59524469,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:25",12.97168287,77.59531486,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:25",12.9716565,77.59539989,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:25",12.9716197,77.59546987,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:25",12.97155162,77.59561303,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:25",12.97151805,77.59567927,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:25",12.97147742,77.59574599,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:25",12.97144277,77.59581746,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:25",12.97136894,77.59596811,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:25",12.97133801,77.59603131,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:25",12.97130802,77.59609711,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:25",12.97128564,77.59616123,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:25",12.97125686,77.59622472,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:25",12.97122633,77.59629241,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:25",12.97119533,77.59635648,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:25",12.97115139,77.59649881,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:25",12.97113563,77.59657297,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:25",12.97113276,77.59664835,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:25",12.97112613,77.59679075,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:25",12.9711237,77.59685438,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:25",12.97112349,77.59692018,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:25",12.97112307,77.59698939,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:25",12.97112484,77.59706051,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:24",12.9711248,77.59712607,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:24",12.97112569,77.59719228,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:24",12.97112538,77.59724948,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:24",12.97112251,77.59730188,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:24",12.97112223,77.59736799,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:24",12.97112583,77.59741805,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:24",12.97112298,77.5974514,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:24",12.97112169,77.5974898,W,Level_0,None,Lavelle Road
+"06-09-2020 , 05:24",12.97112518,77.59753035,W,Level_0,None,Lavelle Road
+"06-09-2020 , 05:24",12.97112685,77.59757516,W,Level_0,None,Lavelle Road
+"06-09-2020 , 05:24",12.97112574,77.5976206,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:24",12.97110686,77.59767644,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:24",12.97110965,77.59789554,W,Level_0,None,Dr. Vittal Mallya
+"06-09-2020 , 05:24",12.97110067,77.59793417,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:24",12.97109201,77.5979687,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:24",12.97107837,77.59803194,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:24",12.97107113,77.59806271,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:24",12.97106495,77.598115,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:24",12.97104475,77.598162,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:24",12.971037,77.59818941,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:24",12.97102332,77.59825163,W,Level_0,None,Levi's
+"06-09-2020 , 05:24",12.97101743,77.59828848,W,Level_0,None,Levi's
+"06-09-2020 , 05:24",12.97100223,77.59833181,W,Level_0,None,Levi's
+"06-09-2020 , 05:24",12.97099986,77.59837952,W,Level_0,None,Levi's
+"06-09-2020 , 05:24",12.9709942,77.59842749,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:24",12.97097699,77.59847365,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:24",12.97097307,77.59852016,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:24",12.97094782,77.59858252,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:24",12.97093741,77.59862355,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:24",12.97092989,77.59866051,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:24",12.9709239,77.59871962,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:24",12.97092414,77.59875682,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:24",12.97090221,77.59879083,W,Level_0,None,Espirit
+"06-09-2020 , 05:24",12.9708757,77.59881432,W,Level_0,None,Espirit
+"06-09-2020 , 05:24",12.97086021,77.59885154,W,Level_0,None,Espirit
+"06-09-2020 , 05:24",12.97084193,77.59892538,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:24",12.9708304,77.59897639,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:24",12.97081993,77.59901628,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:24",12.97081296,77.59904352,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:23",12.97080143,77.59907004,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:23",12.97079336,77.59909855,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:23",12.9707713,77.59912566,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:23",12.97075812,77.59915952,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:23",12.97074686,77.59918947,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:23",12.9707347,77.5992239,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:23",12.97071578,77.59926636,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:23",12.97070143,77.59931213,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:23",12.97069328,77.5993571,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:23",12.97068116,77.59939142,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:23",12.97064567,77.59948521,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:23",12.97063851,77.59953913,W,Level_0,None,ICICI Bank
+"06-09-2020 , 05:23",12.97062386,77.59959408,W,Level_0,None,ICICI Bank
+"06-09-2020 , 05:23",12.97060287,77.59965702,W,Level_0,None,ICICI Bank
+"06-09-2020 , 05:23",12.970578,77.59977896,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:23",12.97057278,77.59983891,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:23",12.9705571,77.59990378,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:23",12.97053289,77.59996809,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:23",12.97050906,77.60003355,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:23",12.97048796,77.60010044,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:23",12.97044362,77.6002273,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:23",12.97042175,77.60029565,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:23",12.97040425,77.60036354,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:23",12.97038672,77.60043021,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:23",12.97037664,77.60048647,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:23",12.97036766,77.60054518,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:23",12.97035409,77.60059111,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:23",12.9703426,77.6006328,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:23",12.97033202,77.60067497,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:23",12.97033457,77.60072429,W,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:23",12.97035606,77.60075897,S,Level_0,None,Vittal Mallya Road
+"06-09-2020 , 05:23",12.97042534,77.60079904,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:23",12.97048245,77.60081902,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:23",12.97057733,77.60083966,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:23",12.97061963,77.60085545,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:23",12.97066324,77.60086892,S,Level_0,None,Bank of India
+"06-09-2020 , 05:23",12.97070473,77.60087687,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:23",12.97075485,77.60089073,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:23",12.97081046,77.60090423,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:23",12.97086044,77.60091256,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:23",12.97091696,77.60092047,S,Level_0,None,Pappana Street
+"06-09-2020 , 05:23",12.97097976,77.60093108,S,Level_0,None,Pappana Street
+"06-09-2020 , 05:23",12.97103188,77.60094314,S,Level_0,None,Pappana Street
+"06-09-2020 , 05:22",12.97110988,77.6009536,S,Level_0,None,Amruth Vegetarian Restaurant
+"06-09-2020 , 05:22",12.97114995,77.60096313,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:22",12.97120281,77.60097704,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:22",12.97125856,77.60098662,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:22",12.97130786,77.60100057,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:22",12.97136417,77.60101413,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:22",12.97141837,77.60102582,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:22",12.97147325,77.60103778,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:22",12.97152782,77.60104293,S,Level_0,None,Naturals Ice-cream
+"06-09-2020 , 05:22",12.97159078,77.60106084,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:22",12.97164759,77.60107017,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:22",12.97169712,77.60108375,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:22",12.97175192,77.60109904,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:22",12.97180089,77.6011111,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:22",12.97185284,77.60111622,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:22",12.97190667,77.60112897,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:22",12.97196284,77.60114637,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:22",12.97202285,77.60116402,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:22",12.97206906,77.60117067,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:22",12.9721187,77.60118107,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:22",12.97221881,77.60119405,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:22",12.9722687,77.60120413,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:22",12.97232697,77.6012122,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:22",12.97238119,77.60122165,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:22",12.97249589,77.60123408,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:22",12.9725445,77.6012389,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:22",12.97258764,77.60124681,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:22",12.97262966,77.60125272,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:22",12.97267953,77.60125333,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:22",12.97273763,77.60124478,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:22",12.97278643,77.60125855,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:22",12.9728315,77.60127712,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:22",12.972879,77.60129973,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:22",12.97291302,77.60133556,W,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:22",12.9729444,77.6013827,W,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:22",12.97296576,77.60143226,W,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:22",12.97297168,77.60160062,W,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:22",12.97297279,77.60167162,W,Level_0,None,Museum Road
+"06-09-2020 , 05:22",12.97297707,77.60173681,W,Level_0,None,Museum Road
+"06-09-2020 , 05:22",12.97297177,77.60180933,W,Level_0,None,Museum Road
+"06-09-2020 , 05:22",12.97296862,77.60188304,W,Level_0,None,Museum Road
+"06-09-2020 , 05:22",12.97296195,77.60195626,W,Level_0,None,Museum Road
+"06-09-2020 , 05:22",12.97295293,77.6020395,W,Level_0,None,Museum Road
+"06-09-2020 , 05:22",12.97295067,77.60211839,W,Level_0,None,Museum Road
+"06-09-2020 , 05:22",12.97292635,77.60219578,W,Level_0,None,Museum Road
+"06-09-2020 , 05:22",12.97291393,77.6022787,W,Level_0,None,Museum Road
+"06-09-2020 , 05:22",12.97291012,77.6023544,W,Level_0,None,Museum Road
+"06-09-2020 , 05:22",12.97290391,77.60243218,W,Level_0,None,Museum Road
+"06-09-2020 , 05:22",12.97289902,77.60249457,W,Level_0,None,Museum Road
+"06-09-2020 , 05:22",12.97288802,77.60258505,W,Level_0,None,Museum Road
+"06-09-2020 , 05:22",12.97288231,77.60272219,W,Level_0,None,Museum Road
+"06-09-2020 , 05:22",12.97287736,77.60277383,W,Level_0,None,Museum Road
+"06-09-2020 , 05:22",12.97287231,77.60283775,W,Level_0,None,Museum Road
+"06-09-2020 , 05:22",12.97286317,77.60290353,W,Level_0,None,Museum Road
+"06-09-2020 , 05:22",12.97285917,77.6029569,W,Level_0,None,Museum Road
+"06-09-2020 , 05:21",12.97285347,77.60301635,W,Level_0,None,Museum Road
+"06-09-2020 , 05:21",12.97284624,77.60307754,W,Level_0,None,Museum Road
+"06-09-2020 , 05:21",12.97284138,77.6031237,W,Level_0,None,Museum Road
+"06-09-2020 , 05:21",12.97283925,77.60316489,W,Level_0,None,Museum Road
+"06-09-2020 , 05:21",12.97285705,77.60321974,S,Level_0,None,Museum Road
+"06-09-2020 , 05:21",12.97289435,77.60323968,S,Level_0,None,Museum Road
+"06-09-2020 , 05:21",12.97292627,77.60323608,S,Level_0,None,Museum Road
+"06-09-2020 , 05:21",12.97296212,77.60323893,S,Level_0,None,Museum Road
+"06-09-2020 , 05:21",12.9729936,77.60323903,S,Level_0,None,Museum Road
+"06-09-2020 , 05:21",12.97317045,77.60321123,S,Level_0,None,Museum Road
+"06-09-2020 , 05:21",12.97321448,77.60321639,S,Level_0,None,Museum Road
+"06-09-2020 , 05:21",12.97326614,77.6032147,S,Level_0,None,Museum Road
+"06-09-2020 , 05:21",12.97331329,77.60320524,S,Level_0,None,Museum Road
+"06-09-2020 , 05:21",12.9733574,77.60319757,S,Level_0,None,Museum Road
+"06-09-2020 , 05:21",12.97339835,77.60318799,S,Level_0,None,Museum Road
+"06-09-2020 , 05:21",12.97345886,77.60317834,S,Level_0,None,Museum Road
+"06-09-2020 , 05:21",12.97352233,77.60317235,S,Level_0,None,6 Museum Road
+"06-09-2020 , 05:21",12.97357665,77.60316365,S,Level_0,None,6 Museum Road
+"06-09-2020 , 05:21",12.97363385,77.60315638,S,Level_0,None,Museum Road
+"06-09-2020 , 05:21",12.9736933,77.6031448,S,Level_0,None,Museum Road
+"06-09-2020 , 05:21",12.97374027,77.60314215,S,Level_0,None,Museum Road
+"06-09-2020 , 05:21",12.97379664,77.60312878,S,Level_0,None,Museum Road
+"06-09-2020 , 05:21",12.97385523,77.6031168,S,Level_0,None,Museum Road
+"06-09-2020 , 05:21",12.97392387,77.60310378,S,Level_0,None,Museum Road
+"06-09-2020 , 05:21",12.9739843,77.60308616,S,Level_0,None,Museum Road
+"06-09-2020 , 05:21",12.97404501,77.60306907,S,Level_0,None,Museum Road
+"06-09-2020 , 05:21",12.97410738,77.60305531,S,Level_0,None,Museum Road
+"06-09-2020 , 05:21",12.97416374,77.60304607,S,Level_0,None,Museum Road
+"06-09-2020 , 05:21",12.97422261,77.60303546,S,Level_0,None,Museum Road
+"06-09-2020 , 05:21",12.97427872,77.60302054,S,Level_0,None,Museum Road
+"06-09-2020 , 05:21",12.97433523,77.60300034,S,Level_0,None,Museum Road
+"06-09-2020 , 05:21",12.97438921,77.60298068,S,Level_0,None,Museum Road
+"06-09-2020 , 05:21",12.97444593,77.60296145,S,Level_0,None,Museum Road
+"06-09-2020 , 05:21",12.97449709,77.60293555,S,Level_0,None,Museum Road
+"06-09-2020 , 05:21",12.97455217,77.60291473,S,Level_0,None,Museum Road
+"06-09-2020 , 05:21",12.97461186,77.60289314,S,Level_0,None,Museum Road
+"06-09-2020 , 05:21",12.97466891,77.60287778,S,Level_0,None,Museum Road
+"06-09-2020 , 05:21",12.97472244,77.60285953,S,Level_0,None,Museum Road
+"06-09-2020 , 05:21",12.97477747,77.60283884,S,Level_0,None,Museum Road
+"06-09-2020 , 05:21",12.97482572,77.60281902,S,Level_0,None,Museum Road
+"06-09-2020 , 05:21",12.97487624,77.60280072,S,Level_0,None,Museum Road
+"06-09-2020 , 05:21",12.97493207,77.60277704,S,Level_0,None,Museum Road
+"06-09-2020 , 05:21",12.97499051,77.60275864,S,Level_0,None,Museum Road
+"06-09-2020 , 05:21",12.97504297,77.60273855,S,Level_0,None,Museum Road
+"06-09-2020 , 05:21",12.97509292,77.60271785,S,Level_0,None,Museum Road
+"06-09-2020 , 05:21",12.9751409,77.60269897,S,Level_0,None,Museum Road
+"06-09-2020 , 05:21",12.97521229,77.60270859,S,Level_0,None,Angeethi
+"06-09-2020 , 05:21",12.97525369,77.60269464,S,Level_0,None,Angeethi
+"06-09-2020 , 05:20",12.97529068,77.60268085,S,Level_0,None,Empire
+"06-09-2020 , 05:20",12.97532025,77.60266768,S,Level_0,None,Empire
+"06-09-2020 , 05:20",12.97536266,77.60264877,S,Level_0,None,Empire
+"06-09-2020 , 05:20",12.9753977,77.60265495,S,Level_0,None,Empire
+"06-09-2020 , 05:20",12.97541737,77.60268804,W,Level_0,None,Empire
+"06-09-2020 , 05:20",12.97542485,77.60271859,W,Level_0,None,Empire
+"06-09-2020 , 05:20",12.9754266,77.60275653,W,Level_0,None,Empire
+"06-09-2020 , 05:20",12.97542402,77.60279337,W,Level_0,None,Empire
+"06-09-2020 , 05:20",12.97542086,77.60282662,W,Level_0,None,Empire
+"06-09-2020 , 05:20",12.97541929,77.60286138,W,Level_0,None,Empire
+"06-09-2020 , 05:20",12.97541478,77.60289755,W,Level_0,None,Empire
+"06-09-2020 , 05:20",12.97540788,77.60293536,W,Level_0,None,Highgates Hotel
+"06-09-2020 , 05:20",12.97540079,77.60297901,W,Level_0,None,Hoppipola
+"06-09-2020 , 05:20",12.97539297,77.60302368,W,Level_0,None,Hoppipola
+"06-09-2020 , 05:20",12.97538441,77.60306386,W,Level_0,None,Hoppipola
+"06-09-2020 , 05:20",12.97537399,77.60310199,W,Level_0,None,Mainland China
+"06-09-2020 , 05:20",12.97536217,77.60314078,W,Level_0,None,Oh! Calcutta
+"06-09-2020 , 05:20",12.97534869,77.6031794,W,Level_0,None,Oh! Calcutta
+"06-09-2020 , 05:20",12.97531846,77.60325878,W,Level_0,None,Oh! Calcutta
+"06-09-2020 , 05:20",12.97530489,77.60329714,W,Level_0,None,Church Street
+"06-09-2020 , 05:20",12.97529315,77.60333457,W,Level_0,None,Church Street
+"06-09-2020 , 05:20",12.97528224,77.60337196,W,Level_0,None,Church Street
+"06-09-2020 , 05:20",12.97527404,77.60340928,W,Level_0,None,Bheema's
+"06-09-2020 , 05:20",12.97526762,77.60344799,W,Level_0,None,Bheema's
+"06-09-2020 , 05:20",12.97526077,77.60348833,W,Level_0,None,Bheema's
+"06-09-2020 , 05:20",12.97525481,77.60352888,W,Level_0,None,Bheema's
+"06-09-2020 , 05:20",12.97524752,77.60360615,W,Level_0,None,Bheema's
+"06-09-2020 , 05:20",12.97524537,77.60364906,W,Level_0,None,Church Street
+"06-09-2020 , 05:20",12.97524213,77.60369297,W,Level_0,None,Hum India
+"06-09-2020 , 05:20",12.97523815,77.60373494,W,Level_0,None,Hum India
+"06-09-2020 , 05:20",12.97523171,77.60377651,W,Level_0,None,Hum India
+"06-09-2020 , 05:20",12.97522541,77.60381964,W,Level_0,None,Hum India
+"06-09-2020 , 05:20",12.97521586,77.60386164,W,Level_0,None,LGCL Thinking Spaces
+"06-09-2020 , 05:20",12.97520639,77.60390146,W,Level_0,None,LGCL Thinking Spaces
+"06-09-2020 , 05:20",12.97519736,77.6039411,W,Level_0,None,LGCL Thinking Spaces
+"06-09-2020 , 05:20",12.9751885,77.60398192,W,Level_0,None,Rest House Crescent Road
+"06-09-2020 , 05:20",12.97518007,77.60402369,W,Level_0,None,Rest House Crescent Road
+"06-09-2020 , 05:20",12.97517164,77.60406431,W,Level_0,None,Abu Dhabi Commercial Bank
+"06-09-2020 , 05:20",12.97516284,77.60410284,W,Level_0,None,Church Street
+"06-09-2020 , 05:20",12.97515273,77.6041392,W,Level_0,None,Rest House Crescent Road
+"06-09-2020 , 05:20",12.97514385,77.60417352,W,Level_0,None,Rest House Crescent Road
+"06-09-2020 , 05:20",12.97513587,77.60420876,W,Level_0,None,Rest House Crescent Road
+"06-09-2020 , 05:20",12.97512711,77.60424835,W,Level_0,None,Rest House Crescent Road
+"06-09-2020 , 05:20",12.97511809,77.6042889,W,Level_0,None,Rest House Crescent Road
+"06-09-2020 , 05:20",12.97510816,77.60433054,W,Level_0,None,Coco Grove
+"06-09-2020 , 05:20",12.97509226,77.60441814,W,Level_0,None,Coco Grove
+"06-09-2020 , 05:20",12.97508486,77.6044637,W,Level_0,None,Coco Grove
+"06-09-2020 , 05:20",12.9750766,77.60450998,W,Level_0,None,Church Street
+"06-09-2020 , 05:20",12.9750693,77.60455271,W,Level_0,None,Church Street
+"06-09-2020 , 05:20",12.97506246,77.60459241,W,Level_0,None,Church Street
+"06-09-2020 , 05:20",12.97505654,77.60463446,W,Level_0,None,Church Street
+"06-09-2020 , 05:20",12.97504987,77.60467688,W,Level_0,None,Church Street
+"06-09-2020 , 05:20",12.97504263,77.60471632,W,Level_0,None,Church Street
+"06-09-2020 , 05:19",12.97502741,77.60478958,W,Level_0,None,Church Street
+"06-09-2020 , 05:19",12.97501717,77.60482659,W,Level_0,None,Church Street
+"06-09-2020 , 05:19",12.97500496,77.60486514,W,Level_0,None,Church Street
+"06-09-2020 , 05:19",12.97499171,77.60490489,W,Level_0,None,Church Street
+"06-09-2020 , 05:19",12.97497853,77.60494429,W,Level_0,None,Church Street
+"06-09-2020 , 05:19",12.97496767,77.60498309,W,Level_0,None,Church Street
+"06-09-2020 , 05:19",12.97495818,77.60502128,W,Level_0,None,Church Street
+"06-09-2020 , 05:19",12.97494991,77.60506019,W,Level_0,None,Church Street
+"06-09-2020 , 05:19",12.97494236,77.60509918,W,Level_0,None,Church Street
+"06-09-2020 , 05:19",12.9749352,77.60513949,W,Level_0,None,Asha Enclave
+"06-09-2020 , 05:19",12.97492792,77.60518122,W,Level_0,None,Asha Enclave
+"06-09-2020 , 05:19",12.97491732,77.60526134,W,Level_0,None,3rd Floor Church Street
+"06-09-2020 , 05:19",12.97490266,77.60530622,W,Level_0,None,3rd Floor Church Street
+"06-09-2020 , 05:19",12.97489493,77.60534612,W,Level_0,None,Church Street
+"06-09-2020 , 05:19",12.97485347,77.60547224,W,Level_0,None,Church Street
+"06-09-2020 , 05:19",12.97484079,77.60550875,W,Level_0,None,Church Street
+"06-09-2020 , 05:19",12.97482854,77.60554074,W,Level_0,None,Church Street
+"06-09-2020 , 05:19",12.97482038,77.60558429,W,Level_0,None,Church Street
+"06-09-2020 , 05:19",12.97480976,77.6056304,W,Level_0,None,Amoeba
+"06-09-2020 , 05:19",12.97480203,77.60567745,W,Level_0,None,Ruby Tuesday
+"06-09-2020 , 05:19",12.97479203,77.60572454,W,Level_0,None,Ruby Tuesday
+"06-09-2020 , 05:19",12.9747877,77.60578114,W,Level_0,None,Ruby Tuesday
+"06-09-2020 , 05:19",12.97477776,77.60583121,W,Level_0,None,Church Street
+"06-09-2020 , 05:19",12.97476839,77.60588527,W,Level_0,None,Church Street
+"06-09-2020 , 05:19",12.97476478,77.60593039,W,Level_0,None,Church Street
+"06-09-2020 , 05:19",12.9747568,77.60597815,W,Level_0,None,Church Street
+"06-09-2020 , 05:19",12.97475656,77.606037,W,Level_0,None,Church Street
+"06-09-2020 , 05:19",12.97474771,77.6060852,W,Level_0,None,India Coffee House
+"06-09-2020 , 05:19",12.97474092,77.60612992,W,Level_0,None,India Coffee House
+"06-09-2020 , 05:19",12.97473264,77.60617205,W,Level_0,None,Church Street
+"06-09-2020 , 05:19",12.97473271,77.60620814,W,Level_0,None,Church Street
+"06-09-2020 , 05:19",12.97472289,77.60625392,W,Level_0,None,Church Street
+"06-09-2020 , 05:19",12.97470271,77.60629789,W,Level_0,None,Church Street
+"06-09-2020 , 05:19",12.97466992,77.60634635,W,Level_0,None,Church Street
+"06-09-2020 , 05:19",12.97465835,77.60639159,W,Level_0,None,Church Street
+"06-09-2020 , 05:19",12.97462619,77.60644013,W,Level_0,None,Church Street
+"06-09-2020 , 05:19",12.97461419,77.60648548,W,Level_0,None,M G Road Metro Station- Plaza Entrance
+"06-09-2020 , 05:19",12.97460351,77.60653114,W,Level_0,None,M G Road Metro Station- Plaza Entrance
+"06-09-2020 , 05:19",12.97459355,77.606578,W,Level_0,None,M G Road Metro Station- Plaza Entrance
+"06-09-2020 , 05:19",12.974583,77.6066221,W,Level_0,None,M G Road Metro Station- Plaza Entrance
+"06-09-2020 , 05:19",12.97457049,77.60666228,W,Level_0,None,Church Street
+"06-09-2020 , 05:19",12.97454313,77.60675106,W,Level_0,None,Church Street
+"06-09-2020 , 05:19",12.97452931,77.60679633,W,Level_0,None,Church Street
+"06-09-2020 , 05:19",12.97451573,77.60684141,W,Level_0,None,Church Street
+"06-09-2020 , 05:19",12.97450106,77.60688443,W,Level_0,None,Church Street
+"06-09-2020 , 05:19",12.97448505,77.60692939,W,Level_0,None,Mel's Corner
+"06-09-2020 , 05:19",12.97447109,77.60697537,W,Level_0,None,Mel's Corner
+"06-09-2020 , 05:19",12.97445951,77.60701712,W,Level_0,None,Mel's Corner
+"06-09-2020 , 05:19",12.97444801,77.60706011,W,Level_0,None,Matteo's Coffee
+"06-09-2020 , 05:19",12.9744387,77.60710383,W,Level_0,None,Matteo's Coffee
+"06-09-2020 , 05:19",12.97442921,77.6071478,W,Level_0,None,Church Street
+"06-09-2020 , 05:19",12.97442076,77.60718811,W,Level_0,None,Church Street
+"06-09-2020 , 05:19",12.97441271,77.60722552,W,Level_0,None,Church Street
+"06-09-2020 , 05:19",12.97440607,77.60726069,W,Level_0,None,Church Street
+"06-09-2020 , 05:19",12.97439911,77.60729472,W,Level_0,None,Church Street
+"06-09-2020 , 05:18",12.97439264,77.60733096,W,Level_0,None,Church Street
+"06-09-2020 , 05:18",12.97438568,77.60736817,W,Level_0,None,Church Street
+"06-09-2020 , 05:18",12.97437697,77.60740742,W,Level_0,None,Church Street
+"06-09-2020 , 05:11",12.97206041,77.60740235,E,Level_0,None,Brigade Road
+"06-09-2020 , 05:11",12.9720454,77.60736632,E,Level_0,None,Brigade Road
+"06-09-2020 , 05:11",12.97204795,77.60730127,E,Level_0,None,Brigade Road
+"06-09-2020 , 05:11",12.97205927,77.60727436,E,Level_0,None,Brigade Road
+"06-09-2020 , 05:11",12.97207397,77.6072471,E,Level_0,None,Brigade Road
+"06-09-2020 , 05:11",12.97209136,77.60721853,E,Level_0,None,FM Cariappa Road (Residency Road)
+"06-09-2020 , 05:11",12.97211156,77.60718977,E,Level_0,None,FM Cariappa Road (Residency Road)
+"06-09-2020 , 05:11",12.97213003,77.60716338,E,Level_0,None,Brigade Road
+"06-09-2020 , 05:11",12.97215101,77.60713953,S,Level_0,None,Brigade Road
+"06-09-2020 , 05:11",12.9721777,77.60712714,S,Level_0,None,Brigade Road
+"06-09-2020 , 05:11",12.97233627,77.60711826,S,Level_0,None,Brigade Road
+"06-09-2020 , 05:11",12.97238035,77.6071283,S,Level_0,None,Brigade Road
+"06-09-2020 , 05:11",12.97241773,77.60713892,S,Level_0,None,Brigade Road
+"06-09-2020 , 05:10",12.97245377,77.60715783,S,Level_0,None,Brigade Road
+"06-09-2020 , 05:10",12.97255164,77.60719173,S,Level_0,None,Brigade Road
+"06-09-2020 , 05:10",12.97260038,77.60721172,S,Level_0,None,Brigade Road
+"06-09-2020 , 05:10",12.97268275,77.60724688,S,Level_0,None,Citibank ATM
+"06-09-2020 , 05:10",12.9727273,77.60726293,S,Level_0,None,Citibank ATM
+"06-09-2020 , 05:10",12.97277982,77.60727635,S,Level_0,None,Citibank ATM
+"06-09-2020 , 05:10",12.97292292,77.60733761,S,Level_0,None,Pizza Hut
+"06-09-2020 , 05:10",12.97309086,77.60739728,S,Level_0,None,Pizza Hut
+"06-09-2020 , 05:10",12.97314182,77.60741581,S,Level_0,None,Brigade Road
+"06-09-2020 , 05:09",12.97520228,77.60739217,E,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:09",12.97521549,77.60731016,E,Level_0,None,Namma Metro Reach-1
+"06-09-2020 , 05:09",12.97522937,77.60723396,E,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:09",12.9752511,77.60715179,E,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:09",12.97527454,77.6070583,E,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:09",12.97531615,77.60695885,E,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:09",12.97536002,77.60685019,E,Level_0,None,Nandini
+"06-09-2020 , 05:09",12.97538931,77.60675655,E,Level_0,None,Cafe Coffee Day
+"06-09-2020 , 05:08",12.97541665,77.60668608,E,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:08",12.97544668,77.60660669,E,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:08",12.97547123,77.60651905,E,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:08",12.97549408,77.60643691,E,Level_0,None,Namma Metro Reach-1
+"06-09-2020 , 05:08",12.97551498,77.60636126,E,Level_0,None,Namma Metro Reach-1
+"06-09-2020 , 05:08",12.97553649,77.60628024,E,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:08",12.97554885,77.60621769,E,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:08",12.97556773,77.60613968,E,Level_0,None,MG Road Parade Ground
+"06-09-2020 , 05:08",12.97558584,77.60606499,E,Level_0,None,MG Road Parade Ground
+"06-09-2020 , 05:08",12.97559507,77.60599814,E,Level_0,None,MG Road Parade Ground
+"06-09-2020 , 05:08",12.97561712,77.60592073,E,Level_0,None,Namma Metro Reach-1
+"06-09-2020 , 05:08",12.97563506,77.60585167,E,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:08",12.97565379,77.6057776,E,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:08",12.97566821,77.60570048,E,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:08",12.97568819,77.60562435,E,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:08",12.97570479,77.60554897,E,Level_0,None,Namma Metro Reach-1
+"06-09-2020 , 05:08",12.97572409,77.60547086,E,Level_0,None,Namma Metro Reach-1
+"06-09-2020 , 05:08",12.97574341,77.60539616,E,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:08",12.9757705,77.60533112,E,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:08",12.97578938,77.60525283,E,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:08",12.97580817,77.6051779,E,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:08",12.97584869,77.60502249,E,Level_0,None,Namma Metro Reach-1
+"06-09-2020 , 05:08",12.97586619,77.60494477,E,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:08",12.97588264,77.60487061,E,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:08",12.97589786,77.60480193,E,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:08",12.97591738,77.60473928,E,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:08",12.97593058,77.6046656,E,Level_0,None,Namma Metro Reach-1
+"06-09-2020 , 05:08",12.97595145,77.60459024,E,Level_0,None,Namma Metro Reach-1
+"06-09-2020 , 05:08",12.97596665,77.60451178,E,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:08",12.97600401,77.60435847,E,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:08",12.97602459,77.60428343,E,Level_0,None,Rest House Crescent Road
+"06-09-2020 , 05:08",12.97606073,77.60411751,E,Level_0,None,Namma Metro Reach-1
+"06-09-2020 , 05:08",12.97608154,77.60404171,E,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:08",12.97609668,77.6039666,E,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:08",12.97611519,77.60388843,E,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:08",12.97613016,77.60381637,E,Level_0,None,Namma Metro Reach-1
+"06-09-2020 , 05:08",12.97614807,77.60374245,E,Level_0,None,Namma Metro Reach-1
+"06-09-2020 , 05:08",12.97616387,77.60365812,E,Level_0,None,Namma Metro Reach-1
+"06-09-2020 , 05:08",12.97618041,77.60357127,E,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:08",12.97619666,77.60350001,E,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:08",12.97621335,77.6034168,E,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:08",12.97622893,77.60333313,E,Level_0,None,Namma Metro Reach-1
+"06-09-2020 , 05:08",12.97624813,77.60324767,E,Level_0,None,Namma Metro Reach-1
+"06-09-2020 , 05:08",12.97626836,77.60316508,E,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:08",12.9762859,77.60308099,E,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:08",12.97630484,77.60299576,E,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:08",12.97631912,77.60291927,E,Level_0,None,Nitesh Infrastructure
+"06-09-2020 , 05:08",12.97633014,77.60284803,E,Level_0,None,Namma Metro Reach-1
+"06-09-2020 , 05:08",12.97634062,77.60276779,E,Level_0,None,Namma Metro Reach-1
+"06-09-2020 , 05:08",12.97635991,77.60268654,E,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:08",12.97637952,77.60260654,E,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:08",12.97640377,77.60254287,E,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:08",12.97641999,77.60247972,E,Level_0,None,Museum Road
+"06-09-2020 , 05:08",12.97643618,77.60242036,E,Level_0,None,Museum Road
+"06-09-2020 , 05:08",12.97646755,77.60230195,E,Level_0,None,Namma Metro Reach-1
+"06-09-2020 , 05:07",12.97648632,77.60225479,E,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:07",12.97652753,77.60220613,E,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:07",12.9765473,77.60215486,E,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:07",12.97656232,77.60210518,E,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:07",12.97657753,77.60206539,E,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:07",12.97658486,77.60202561,E,Level_0,None,Namma Metro Reach-1
+"06-09-2020 , 05:07",12.97659816,77.60199252,E,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:07",12.97663425,77.60194638,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:07",12.97670959,77.60192529,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:07",12.97674366,77.60193361,S,Level_0,None,Namma Metro Reach-1
+"06-09-2020 , 05:07",12.97688698,77.60196107,S,Level_0,None,Namma Metro Reach-1
+"06-09-2020 , 05:07",12.97701905,77.60198896,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:07",12.97709783,77.60200919,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:07",12.97716877,77.60202098,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:07",12.97725653,77.60203785,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:07",12.97733875,77.6020513,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:07",12.97741841,77.60206911,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:07",12.97748062,77.60209076,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:07",12.9775506,77.6021069,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:07",12.97763271,77.6021249,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:07",12.97770566,77.60214233,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:07",12.97778492,77.60216638,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:07",12.97786736,77.6021892,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:07",12.97793632,77.60220166,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:07",12.97801526,77.60222228,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:07",12.97807716,77.60223362,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:07",12.97814528,77.60224115,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:07",12.97821129,77.60225689,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:07",12.97827534,77.60227297,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:07",12.97835246,77.60229441,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:07",12.97843175,77.60231275,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:07",12.97850827,77.60233205,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:07",12.97857985,77.6023445,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:07",12.97865416,77.60235929,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:07",12.97872194,77.60237017,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:07",12.9787951,77.60239376,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:07",12.97887033,77.60240986,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:07",12.97893192,77.60241802,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:07",12.97897468,77.60243562,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:07",12.9790225,77.60244279,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:07",12.97906721,77.6024514,S,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:07",12.97910149,77.60246843,W,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:07",12.97911367,77.6024939,W,Level_0,None,Saint Mark's Road
+"06-09-2020 , 05:07",12.97912194,77.60253288,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:07",12.97911127,77.60257633,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:07",12.97909439,77.60263176,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:07",12.97903502,77.60283337,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:07",12.97901468,77.60290594,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:07",12.97899707,77.60297857,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:07",12.97897787,77.60305692,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:07",12.97895602,77.60313679,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:07",12.97894891,77.60321585,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:06",12.97892601,77.60329336,W,Level_0,None,Lady Curzon Road
+"06-09-2020 , 05:06",12.97888454,77.60337143,W,Level_0,None,Lady Curzon Road
+"06-09-2020 , 05:06",12.9788581,77.60345136,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:06",12.97882842,77.60353118,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:06",12.97880946,77.60361787,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:06",12.97877714,77.60370059,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:06",12.97874892,77.6037779,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:06",12.97872101,77.60385959,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:06",12.97869233,77.6039433,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:06",12.97866457,77.60402038,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:06",12.97863822,77.6040971,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:06",12.97860991,77.60417721,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:06",12.9785687,77.60433545,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:06",12.97854314,77.60441185,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:06",12.97851786,77.6044902,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:06",12.97849652,77.60456884,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:06",12.97846373,77.60464685,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:06",12.97843927,77.60472976,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:06",12.97841154,77.60481094,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:06",12.97838805,77.60488769,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:06",12.97836354,77.60496659,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:06",12.97834495,77.60504439,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:06",12.97832089,77.60512084,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:06",12.97829288,77.60520067,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:06",12.97827091,77.60527891,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:06",12.97824435,77.60535773,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:06",12.97821828,77.60543517,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:06",12.9781885,77.60551398,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:06",12.97815886,77.60559314,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:06",12.97813433,77.60567493,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:06",12.97810705,77.60575246,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:06",12.97808084,77.60582785,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:06",12.97805306,77.60590976,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:06",12.9780274,77.60598241,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:06",12.97800396,77.60605873,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:06",12.97797459,77.60613182,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:06",12.97795459,77.60620217,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:06",12.97793217,77.60626947,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:06",12.97791202,77.60633934,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:06",12.97789334,77.60640759,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:06",12.97786892,77.60647852,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:06",12.97784521,77.60654951,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:06",12.97782477,77.60661514,W,Level_0,None,Main Guard Cross Road
+"06-09-2020 , 05:06",12.97780031,77.60668325,W,Level_0,None,Main Guard Cross Road
+"06-09-2020 , 05:06",12.9777809,77.60674355,W,Level_0,None,Main Guard Cross Road
+"06-09-2020 , 05:06",12.97776236,77.60680745,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:06",12.97773648,77.60687804,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:06",12.97771158,77.60694595,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:06",12.97768813,77.60701977,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:06",12.97766505,77.60709424,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:06",12.97763767,77.60716228,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:06",12.97760885,77.60723336,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:06",12.97758485,77.60730861,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:01",12.9776791,77.6074171,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:01",12.97770175,77.60734914,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:01",12.97773134,77.60726402,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:01",12.97776155,77.60718563,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:01",12.97778539,77.60710893,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:01",12.97780988,77.60703236,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:01",12.9778351,77.60695156,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:01",12.9778633,77.60687178,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:01",12.97788857,77.60679596,E,Level_0,None,Main Guard Cross Road
+"06-09-2020 , 05:00",12.97791603,77.60671513,E,Level_0,None,Main Guard Cross Road
+"06-09-2020 , 05:00",12.97794339,77.60663891,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:00",12.97799187,77.60648691,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:00",12.97801319,77.6064196,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:00",12.97803263,77.60635528,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:00",12.9780521,77.60628936,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:00",12.97807507,77.60621859,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:00",12.97809296,77.60615732,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:00",12.97811651,77.60607905,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:00",12.97813781,77.60599997,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:00",12.978164,77.60591336,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:00",12.97819343,77.60583401,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:00",12.97821506,77.60576667,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:00",12.97824645,77.60567616,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:00",12.97827913,77.60558715,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:00",12.97831011,77.60549998,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:00",12.97834091,77.60542838,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:00",12.97838263,77.60534627,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:00",12.97841275,77.60526153,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:00",12.97843965,77.60518203,E,Level_0,None,Namma Metro Phase 2 Red Line
+"06-09-2020 , 05:00",12.97846965,77.60509263,E,Level_0,None,Namma Metro Phase 2 Red Line
+"06-09-2020 , 05:00",12.97849261,77.60502552,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:00",12.97851934,77.60494601,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:00",12.9785446,77.60487001,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:00",12.97857159,77.6047933,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:00",12.97859895,77.6047121,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:00",12.97862272,77.60463294,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:00",12.97865127,77.60455656,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:00",12.97867672,77.60448384,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:00",12.97869959,77.60440997,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:00",12.9787235,77.60434111,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:00",12.97874916,77.60426778,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:00",12.97876234,77.60419539,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:00",12.97878931,77.60412077,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:00",12.97880966,77.60405043,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:00",12.97882693,77.60397296,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:00",12.97885246,77.6038982,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:00",12.97887474,77.60382272,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:00",12.97890253,77.60374854,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:00",12.97892659,77.60368522,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:00",12.97895022,77.60362387,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:00",12.97896801,77.60356895,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:00",12.978985,77.60351708,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:00",12.9790092,77.6034865,S,Level_0,None,Lady Curzon Road
+"06-09-2020 , 05:00",12.97905465,77.60346664,S,Level_0,None,Lady Curzon Road
+"06-09-2020 , 05:00",12.9790821,77.60346598,S,Level_0,None,Lady Curzon Road
+"06-09-2020 , 05:00",12.97915377,77.60347242,S,Level_0,None,Lady Curzon Road
+"06-09-2020 , 05:00",12.97920892,77.60348987,S,Level_0,None,Lady Curzon Road
+"06-09-2020 , 05:00",12.97927619,77.60351667,S,Level_0,None,Lady Curzon Road
+"06-09-2020 , 05:00",12.97934598,77.603539,S,Level_0,None,Lady Curzon Road
+"06-09-2020 , 05:00",12.97941891,77.60356114,S,Level_0,None,Lady Curzon Road
+"06-09-2020 , 05:00",12.97950052,77.60358535,S,Level_0,None,Lady Curzon Road
+"06-09-2020 , 05:00",12.97957119,77.60360527,S,Level_0,None,Lady Curzon Road
+"06-09-2020 , 05:00",12.97963815,77.6036275,S,Level_0,None,Lady Curzon Road
+"06-09-2020 , 05:00",12.97970928,77.60364439,S,Level_0,None,Lady Curzon Road
+"06-09-2020 , 05:00",12.97976099,77.60366277,S,Level_0,None,Lady Curzon Road
+"06-09-2020 , 05:00",12.97988918,77.60370149,S,Level_0,None,Lady Curzon Road
+"06-09-2020 , 04:59",12.97992673,77.6037146,S,Level_0,None,Lady Curzon Road
+"06-09-2020 , 04:59",12.97995994,77.60372624,S,Level_0,None,Lady Curzon Road
+"06-09-2020 , 04:59",12.97999825,77.6037405,S,Level_0,None,Lady Curzon Road
+"06-09-2020 , 04:59",12.98003573,77.60375343,S,Level_0,None,Lady Curzon Road
+"06-09-2020 , 04:59",12.98009909,77.60377877,S,Level_0,None,Lady Curzon Road
+"06-09-2020 , 04:59",12.98013238,77.60379662,S,Level_0,None,Lady Curzon Road
+"06-09-2020 , 04:59",12.98015874,77.60381312,S,Level_0,None,Lady Curzon Road
+"06-09-2020 , 04:59",12.98018436,77.60383804,S,Level_0,None,Lady Curzon Road
+"06-09-2020 , 04:59",12.98021079,77.60387118,S,Level_0,None,Lady Curzon Road
+"06-09-2020 , 04:59",12.98023075,77.60389099,S,Level_0,None,Lady Curzon Road
+"06-09-2020 , 04:59",12.98027637,77.6039141,S,Level_0,None,Infantry Road
+"06-09-2020 , 04:59",12.98031971,77.60392679,S,Level_0,None,Infantry Road
+"06-09-2020 , 04:59",12.98035433,77.6039321,E,Level_0,None,Infantry Road
+"06-09-2020 , 04:59",12.98037796,77.60391595,E,Level_0,None,Infantry Road
+"06-09-2020 , 04:59",12.98039743,77.60387879,E,Level_0,None,Infantry Road
+"06-09-2020 , 04:59",12.98044062,77.60381157,E,Level_0,None,Lady Curzon Road
+"06-09-2020 , 04:59",12.98046414,77.60376507,E,Level_0,None,Lady Curzon Road
+"06-09-2020 , 04:59",12.98047987,77.60373381,E,Level_0,None,Lady Curzon Road
+"06-09-2020 , 04:59",12.98049719,77.60369041,E,Level_0,None,Infantry Road
+"06-09-2020 , 04:59",12.98050746,77.60366414,E,Level_0,None,Infantry Road
+"06-09-2020 , 04:59",12.98052671,77.6036127,E,Level_0,None,Infantry Road
+"06-09-2020 , 04:59",12.98053719,77.60358444,E,Level_0,None,Infantry Road
+"06-09-2020 , 04:59",12.98054726,77.60355344,E,Level_0,None,Infantry Road
+"06-09-2020 , 04:59",12.9805578,77.60351835,E,Level_0,None,Infantry Road
+"06-09-2020 , 04:59",12.98056874,77.60348017,E,Level_0,None,Infantry Road
+"06-09-2020 , 04:59",12.98057733,77.60344579,E,Level_0,None,Infantry Road
+"06-09-2020 , 04:59",12.98058506,77.60341318,E,Level_0,None,Infantry Road
+"06-09-2020 , 04:59",12.98059354,77.60337711,E,Level_0,None,Infantry Road
+"06-09-2020 , 04:59",12.98060321,77.60334244,E,Level_0,None,Infantry Road
+"06-09-2020 , 04:59",12.98061172,77.60330847,E,Level_0,None,Infantry Road
+"06-09-2020 , 04:59",12.98062302,77.60327229,E,Level_0,None,Infantry Road
+"06-09-2020 , 04:59",12.98063336,77.60323631,E,Level_0,None,Infantry Road
+"06-09-2020 , 04:59",12.98064468,77.60320069,E,Level_0,None,Infantry Road
+"06-09-2020 , 04:59",12.98065399,77.60316686,E,Level_0,None,Infantry Road
+"06-09-2020 , 04:59",12.98066407,77.603127,E,Level_0,None,Infantry Road
+"06-09-2020 , 04:59",12.98067451,77.60308797,E,Level_0,None,Infantry Road
+"06-09-2020 , 04:58",12.98068501,77.60303171,E,Level_0,None,Infantry Road
+"06-09-2020 , 04:58",12.98070984,77.60293436,E,Level_0,None,Central Street
+"06-09-2020 , 04:58",12.98072551,77.60289455,E,Level_0,None,Central Street
+"06-09-2020 , 04:58",12.98076088,77.60283132,E,Level_0,None,Central Street
+"06-09-2020 , 04:58",12.98079919,77.60271357,E,Level_0,None,Infantry Road
+"06-09-2020 , 04:58",12.98081413,77.6026854,E,Level_0,None,Infantry Road
+"06-09-2020 , 04:58",12.98082499,77.60265653,E,Level_0,None,Infantry Road
+"06-09-2020 , 04:58",12.98084364,77.60263016,E,Level_0,None,Infantry Road
+"06-09-2020 , 04:58",12.98085911,77.60259222,E,Level_0,None,Infantry Road
+"06-09-2020 , 04:58",12.98087049,77.60255418,E,Level_0,None,Infantry Road
+"06-09-2020 , 04:58",12.9808882,77.60250779,E,Level_0,None,121 Infantry Road
+"06-09-2020 , 04:58",12.98090662,77.60244965,E,Level_0,None,121 Infantry Road
+"06-09-2020 , 04:58",12.98092627,77.60238963,E,Level_0,None,121 Infantry Road
+"06-09-2020 , 04:58",12.98094341,77.60233312,E,Level_0,None,Infantry Road
+"06-09-2020 , 04:58",12.98096397,77.60227416,E,Level_0,None,Infantry Road
+"06-09-2020 , 04:58",12.98098253,77.6022203,E,Level_0,None,Infantry Road
+"06-09-2020 , 04:58",12.98100175,77.60216607,E,Level_0,None,Infantry Road
+"06-09-2020 , 04:58",12.9810214,77.60211883,E,Level_0,None,122/4 Infantry Road
+"06-09-2020 , 04:58",12.98104239,77.60208183,E,Level_0,None,122/4 Infantry Road
+"06-09-2020 , 04:58",12.98105924,77.60203869,E,Level_0,None,122/4 Infantry Road
+"06-09-2020 , 04:58",12.98107818,77.60198895,E,Level_0,None,122/4 Infantry Road
+"06-09-2020 , 04:58",12.98109391,77.60193336,E,Level_0,None,Infantry Road
+"06-09-2020 , 04:58",12.981098,77.6018799,E,Level_0,None,Infantry Road
+"06-09-2020 , 04:58",12.98111312,77.6018382,E,Level_0,None,Infantry Road
+"06-09-2020 , 04:58",12.98114392,77.60175793,E,Level_0,None,Infantry Road
+"06-09-2020 , 04:58",12.9811715,77.60166337,E,Level_0,None,#
+"06-09-2020 , 04:58",12.98118621,77.60161351,E,Level_0,None,#
+"06-09-2020 , 04:57",12.98121891,77.60149898,E,Level_0,None,#
+"06-09-2020 , 04:57",12.98123236,77.60145617,E,Level_0,None,Infantry Road
+"06-09-2020 , 04:57",12.98124859,77.60141363,E,Level_0,None,Infantry Road
+"06-09-2020 , 04:57",12.98126769,77.60137053,E,Level_0,None,Infantry Road
+"06-09-2020 , 04:57",12.98131645,77.60127823,E,Level_0,None,Infantry Road
+"06-09-2020 , 04:57",12.98134546,77.60121623,E,Level_0,None,55 Infantry Road
+"06-09-2020 , 04:57",12.98136883,77.60116131,E,Level_0,None,55 Infantry Road
+"06-09-2020 , 04:57",12.98138969,77.60110474,E,Level_0,None,Infantry Road
+"06-09-2020 , 04:57",12.98141184,77.60104414,E,Level_0,None,Infantry Road
+"06-09-2020 , 04:57",12.98145029,77.6009267,E,Level_0,None,Infantry Road
+"06-09-2020 , 04:57",12.98147192,77.60086408,E,Level_0,None,Infantry Road
+"06-09-2020 , 04:57",12.98149413,77.60080301,E,Level_0,None,Infantry Road
+"06-09-2020 , 04:57",12.98151307,77.60074172,E,Level_0,None,Infantry Road
+"06-09-2020 , 04:57",12.98153457,77.60068091,E,Level_0,None,Infantry Road
+"06-09-2020 , 04:57",12.98155574,77.60061369,E,Level_0,None,Infantry Road
+"06-09-2020 , 04:57",12.98156655,77.6005714,E,Level_0,None,Infantry Road
+"06-09-2020 , 04:57",12.98158976,77.60048165,E,Level_0,None,Infantry Road
+"06-09-2020 , 04:57",12.98160618,77.60043829,E,Level_0,None,Infantry Road
+"06-09-2020 , 04:57",12.98164949,77.60035754,E,Level_0,None,Infantry Road
+"06-09-2020 , 04:57",12.98168181,77.60030803,E,Level_0,None,Infantry Road
+"06-09-2020 , 04:57",12.98170013,77.60026924,E,Level_0,None,Infantry Road
+"06-09-2020 , 04:57",12.98175635,77.60020671,E,Level_0,None,Infantry Road
+"06-09-2020 , 04:57",12.98177361,77.60016428,E,Level_0,None,Infantry Road
+"06-09-2020 , 04:57",12.98180247,77.60008202,E,Level_0,None,Infantry Road
+"06-09-2020 , 04:57",12.98181199,77.60003705,E,Level_0,None,Infantry Road
+"06-09-2020 , 04:57",12.98181962,77.59997842,E,Level_0,None,Plain Street
+"06-09-2020 , 04:57",12.98184051,77.59995325,S,Level_0,None,Plain Street
+"06-09-2020 , 04:57",12.98188454,77.5999595,S,Level_0,None,Plain Street
+"06-09-2020 , 04:57",12.98191321,77.59997229,S,Level_0,None,Plain Street
+"06-09-2020 , 04:57",12.98194567,77.59998705,S,Level_0,None,Plain Street
+"06-09-2020 , 04:57",12.98198593,77.60000622,S,Level_0,None,Plain Street
+"06-09-2020 , 04:57",12.98204456,77.60001106,S,Level_0,None,Plain Street
+"06-09-2020 , 05:18",12.97435918,77.60747979,W,Level_0,None,Nike Showroom
+"06-09-2020 , 05:18",12.97435016,77.60751765,W,Level_0,None,Nike Showroom
+"06-09-2020 , 05:18",12.97434122,77.60755664,W,Level_0,None,Nike Showroom
+"06-09-2020 , 05:18",12.97433419,77.60759333,W,Level_0,None,Church Street
+"06-09-2020 , 05:18",12.97432218,77.60764696,W,Level_0,None,Church Street
+"06-09-2020 , 05:18",12.97429901,77.60767966,W,Level_0,None,Church Street
+"06-09-2020 , 05:18",12.97428965,77.60770788,S,Level_0,None,Church Street
+"06-09-2020 , 05:18",12.97432145,77.60772394,S,Level_0,None,Church Street
+"06-09-2020 , 05:18",12.97435237,77.6077306,S,Level_0,None,Church Street
+"06-09-2020 , 05:18",12.97448609,77.60776558,S,Level_0,None,Brigade Road
+"06-09-2020 , 05:18",12.97453128,77.60778119,S,Level_0,None,Brigade Road
+"06-09-2020 , 05:18",12.97458748,77.60779126,S,Level_0,None,Brigade Road
+"06-09-2020 , 05:18",12.97463503,77.60780029,S,Level_0,None,Brigade Road
+"06-09-2020 , 05:18",12.97467349,77.60781424,S,Level_0,None,Brigade Road
+"06-09-2020 , 05:18",12.97472068,77.60782967,S,Level_0,None,Brigade Road
+"06-09-2020 , 05:18",12.97475858,77.60784658,S,Level_0,None,Brigade Road
+"06-09-2020 , 05:18",12.97479865,77.60786198,S,Level_0,None,Brigade Road
+"06-09-2020 , 05:18",12.97483274,77.60788181,S,Level_0,None,Brigade Road
+"06-09-2020 , 05:18",12.97486711,77.60790332,S,Level_0,None,Cauvery Arts And Crafts Emporium
+"06-09-2020 , 05:18",12.97489698,77.60793712,W,Level_0,None,Cauvery Arts And Crafts Emporium
+"06-09-2020 , 05:18",12.97491933,77.60797905,W,Level_0,None,Cauvery Arts And Crafts Emporium
+"06-09-2020 , 05:18",12.9749191,77.60802231,W,Level_0,None,Cauvery Arts And Crafts Emporium
+"06-09-2020 , 05:18",12.97492219,77.60806444,W,Level_0,None,Cauvery Arts And Crafts Emporium
+"06-09-2020 , 05:18",12.97491426,77.60810929,W,Level_0,None,Cauvery Arts And Crafts Emporium
+"06-09-2020 , 05:18",12.97490396,77.60815847,W,Level_0,None,Cauvery Arts And Crafts Emporium
+"06-09-2020 , 05:18",12.9748909,77.60820689,W,Level_0,None,Cauvery Arts And Crafts Emporium
+"06-09-2020 , 05:18",12.97488478,77.60825732,W,Level_0,None,Kotak Mahindra
+"06-09-2020 , 05:18",12.97486684,77.60836365,W,Level_0,None,Kotak Mahindra
+"06-09-2020 , 05:17",12.97487529,77.6084021,W,Level_0,None,Kotak Mahindra
+"06-09-2020 , 05:17",12.97490246,77.60841605,W,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:17",12.97489153,77.60845162,W,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:17",12.97488122,77.60848366,W,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:17",12.97487007,77.60852242,W,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:17",12.97481429,77.60873618,W,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:17",12.97480935,77.60881956,W,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:17",12.97479869,77.60889749,W,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:17",12.97476218,77.6090387,W,Level_0,None,Namma Metro Reach-1
+"06-09-2020 , 05:17",12.97474684,77.60911199,W,Level_0,None,Namma Metro Reach-1
+"06-09-2020 , 05:17",12.97473461,77.60918156,W,Level_0,None,Residency Cross Road
+"06-09-2020 , 05:17",12.97471684,77.60925291,W,Level_0,None,Residency Cross Road
+"06-09-2020 , 05:17",12.97467143,77.60939437,W,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:17",12.97465894,77.60946792,W,Level_0,None,Namma Metro Reach-1
+"06-09-2020 , 05:17",12.97466031,77.60954135,W,Level_0,None,Namma Metro Reach-1
+"06-09-2020 , 05:17",12.97466038,77.60971958,W,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:17",12.97465533,77.60979498,W,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:17",12.97464639,77.60985229,W,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:17",12.97462779,77.60993609,W,Level_0,None,Namma Metro Reach-1
+"06-09-2020 , 05:17",12.97461637,77.61002107,W,Level_0,None,Namma Metro Reach-1
+"06-09-2020 , 05:17",12.97459457,77.61008974,W,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:17",12.97457855,77.61015538,W,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:17",12.97455791,77.61022022,W,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:17",12.97452367,77.61035427,W,Level_0,None,Namma Metro Reach-1
+"06-09-2020 , 05:17",12.9745054,77.61040789,W,Level_0,None,Namma Metro Reach-1
+"06-09-2020 , 05:17",12.97448858,77.61047148,W,Level_0,None,Namma Metro Reach-1
+"06-09-2020 , 05:17",12.97447476,77.61052838,W,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:17",12.97446306,77.61059068,W,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:17",12.97444657,77.61065176,W,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:17",12.97443448,77.61070889,W,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:17",12.97441739,77.61076498,W,Level_0,None,Namma Metro Reach-1
+"06-09-2020 , 05:17",12.97439835,77.61082546,W,Level_0,None,Namma Metro Reach-1
+"06-09-2020 , 05:17",12.9743885,77.61086086,W,Level_0,None,Namma Metro Reach-1
+"06-09-2020 , 05:17",12.97437195,77.61090801,W,Level_0,None,Namma Metro Reach-1
+"06-09-2020 , 05:17",12.97436351,77.61095673,W,Level_0,None,Namma Metro Reach-1
+"06-09-2020 , 05:17",12.97435307,77.61101445,W,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:17",12.97433708,77.61107551,W,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:17",12.97429123,77.61122513,W,Level_0,None,Namma Metro Reach-1
+"06-09-2020 , 05:17",12.97428333,77.61126026,W,Level_0,None,Namma Metro Reach-1
+"06-09-2020 , 05:16",12.9742496,77.61135197,W,Level_0,None,Namma Metro Reach-1
+"06-09-2020 , 05:16",12.97423754,77.61137705,W,Level_0,None,Namma Metro Reach-1
+"06-09-2020 , 05:16",12.97422187,77.61140189,W,Level_0,None,Rev. Ferdinand Kittel
+"06-09-2020 , 05:16",12.9742143,77.61143057,W,Level_0,None,Rev. Ferdinand Kittel
+"06-09-2020 , 05:16",12.97418885,77.61150871,W,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:16",12.97417158,77.61156078,W,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:16",12.97415902,77.61160161,W,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:15",12.97414719,77.61165102,W,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:15",12.97413031,77.61170448,W,Level_0,None,Namma Metro Reach-1
+"06-09-2020 , 05:15",12.97411583,77.61175374,W,Level_0,None,Namma Metro Reach-1
+"06-09-2020 , 05:15",12.97410703,77.61179873,W,Level_0,None,Namma Metro Reach-1
+"06-09-2020 , 05:15",12.97409638,77.61185916,W,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:15",12.97408072,77.6119163,W,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:15",12.97405444,77.61198937,W,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:15",12.97403515,77.61205683,W,Level_0,None,Commissariat Road
+"06-09-2020 , 05:15",12.97402837,77.61213263,W,Level_0,None,Commissariat Road
+"06-09-2020 , 05:15",12.97399881,77.61220915,W,Level_0,None,Commissariat Road
+"06-09-2020 , 05:15",12.97398356,77.61227883,W,Level_0,None,DCB Bank
+"06-09-2020 , 05:15",12.97396741,77.6123522,W,Level_0,None,DCB Bank
+"06-09-2020 , 05:15",12.97395156,77.61243155,W,Level_0,None,DCB Bank
+"06-09-2020 , 05:15",12.97392933,77.61251221,W,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:15",12.97393416,77.61257357,W,Level_0,None,Namma Metro Reach-1
+"06-09-2020 , 05:15",12.9739202,77.61264378,W,Level_0,None,Namma Metro Reach-1
+"06-09-2020 , 05:15",12.97390579,77.61270559,W,Level_0,None,Namma Metro Reach-1
+"06-09-2020 , 05:15",12.97389724,77.61276128,W,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:15",12.97388457,77.61281456,W,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:15",12.97387985,77.61286709,W,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:15",12.97386251,77.61291045,N,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:15",12.97382653,77.6129324,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:15",12.97378916,77.61294325,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:15",12.97374864,77.61295128,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:15",12.97371417,77.61294818,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:15",12.97367163,77.6129391,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:15",12.97353805,77.61289936,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:15",12.97349511,77.61288651,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:15",12.9733974,77.61285888,N,Level_0,None,Walt Disney
+"06-09-2020 , 05:15",12.97334152,77.61284422,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:15",12.97321745,77.61281112,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:15",12.97309821,77.61278211,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:15",12.97303561,77.61276966,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:15",12.97297056,77.61275524,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:15",12.9729048,77.61274376,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:15",12.972841,77.61273464,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:15",12.97277858,77.61272354,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:15",12.97271302,77.61271232,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:15",12.97265461,77.61270298,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:15",12.97259492,77.61268122,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:15",12.97247403,77.61264977,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:15",12.97241779,77.61263006,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:15",12.97236567,77.61262106,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:15",12.97230531,77.61260468,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:15",12.97224516,77.61259174,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:15",12.97219218,77.61257904,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:15",12.97213532,77.61256526,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:15",12.97207957,77.61255376,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:15",12.97202321,77.61253798,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:15",12.97196842,77.61252485,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:15",12.97184608,77.61250207,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:15",12.97179485,77.61248887,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:15",12.971751,77.61247346,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:14",12.97166471,77.61243539,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:14",12.97162597,77.61242504,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:14",12.97158927,77.61241659,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:14",12.97155221,77.61241014,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:14",12.97151304,77.61240424,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:14",12.97147128,77.61239861,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:14",12.97142751,77.61239495,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:14",12.97138603,77.61239219,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:14",12.97134671,77.6123916,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:14",12.97131433,77.61239168,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:14",12.9712842,77.61239193,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:14",12.97125274,77.6123915,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:14",12.97122173,77.6123889,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:14",12.97110773,77.61236735,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:14",12.97107293,77.61235784,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:14",12.97103291,77.61235143,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:14",12.97100282,77.6123494,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:14",12.97096624,77.61234366,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:14",12.97092922,77.61233764,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:14",12.97089161,77.61233124,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:14",12.97085688,77.61232472,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:14",12.97081923,77.61232133,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:14",12.97077997,77.61231624,N,Level_0,None,Brunton Cross Road
+"06-09-2020 , 05:14",12.97073446,77.61231185,N,Level_0,None,Brunton Cross Road
+"06-09-2020 , 05:14",12.97068684,77.61230728,N,Level_0,None,Brunton Cross Road
+"06-09-2020 , 05:14",12.97064399,77.6123027,N,Level_0,None,Brunton Cross Road
+"06-09-2020 , 05:14",12.97060373,77.61229459,N,Level_0,None,Brunton Cross Road
+"06-09-2020 , 05:14",12.97056316,77.61228284,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:14",12.97051154,77.61228088,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:14",12.9704671,77.61227345,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:14",12.97042073,77.61226581,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:14",12.97037481,77.61225919,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:14",12.97032619,77.61225418,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:14",12.97027634,77.61224327,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:14",12.97022684,77.6122331,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:14",12.97017789,77.61222614,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:14",12.9701236,77.61221833,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:14",12.97006058,77.61220495,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:14",12.97001662,77.61220297,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:14",12.96998284,77.61220153,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:14",12.96993273,77.61219778,N,Level_0,None,The Mar Thoma Syrian Church
+"06-09-2020 , 05:14",12.96988884,77.6121963,N,Level_0,None,The Mar Thoma Syrian Church
+"06-09-2020 , 05:14",12.96983933,77.6121879,N,Level_0,None,The Mar Thoma Syrian Church
+"06-09-2020 , 05:14",12.96979929,77.61216692,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:14",12.96977632,77.61214543,N,Level_0,None,Primrose Road
+"06-09-2020 , 05:13",12.96974983,77.61211749,E,Level_0,None,Primrose Road
+"06-09-2020 , 05:13",12.96971178,77.61205193,E,Level_0,None,Primrose Road
+"06-09-2020 , 05:13",12.96971916,77.61201736,E,Level_0,None,Magrath Road
+"06-09-2020 , 05:13",12.96974972,77.6119339,E,Level_0,None,Magrath Road
+"06-09-2020 , 05:13",12.96976306,77.61188615,E,Level_0,None,Magrath Road
+"06-09-2020 , 05:13",12.96979985,77.61179144,E,Level_0,None,Magrath Road
+"06-09-2020 , 05:13",12.96981104,77.61174316,E,Level_0,None,Magrath Road
+"06-09-2020 , 05:13",12.96982483,77.61168799,E,Level_0,None,Magrath Road
+"06-09-2020 , 05:13",12.96989201,77.61149497,E,Level_0,None,Magrath Road
+"06-09-2020 , 05:13",12.96993227,77.61132991,E,Level_0,None,Magrath Road
+"06-09-2020 , 05:13",12.96995905,77.61124853,E,Level_0,None,Magrath Road
+"06-09-2020 , 05:13",12.96996921,77.61121512,E,Level_0,None,Magrath Road
+"06-09-2020 , 05:13",12.969979,77.61118241,E,Level_0,None,Magrath Road
+"06-09-2020 , 05:13",12.96998922,77.61114812,E,Level_0,None,Magrath Road
+"06-09-2020 , 05:13",12.96999802,77.61111513,E,Level_0,None,Magrath Road
+"06-09-2020 , 05:13",12.97003279,77.6109954,E,Level_0,None,Magrath Road
+"06-09-2020 , 05:13",12.97005662,77.61095428,E,Level_0,None,Magrath Road
+"06-09-2020 , 05:13",12.97006829,77.61092628,E,Level_0,None,Magrath Road
+"06-09-2020 , 05:13",12.9700836,77.61089005,E,Level_0,None,Magrath Road
+"06-09-2020 , 05:13",12.97010082,77.61085225,E,Level_0,None,Magrath Road
+"06-09-2020 , 05:13",12.97011917,77.61081082,E,Level_0,None,Magrath Road
+"06-09-2020 , 05:13",12.97014022,77.61077058,E,Level_0,None,Magrath Road
+"06-09-2020 , 05:13",12.97018065,77.61070104,E,Level_0,None,Magrath Road
+"06-09-2020 , 05:13",12.97019893,77.61066118,E,Level_0,None,Magrath Road
+"06-09-2020 , 05:13",12.9702148,77.61061665,E,Level_0,None,Magrath Road
+"06-09-2020 , 05:13",12.9702326,77.61057652,E,Level_0,None,Magrath Road
+"06-09-2020 , 05:13",12.97025112,77.61053505,E,Level_0,None,Magrath Road
+"06-09-2020 , 05:13",12.97027203,77.61049355,E,Level_0,None,Commissariat Road
+"06-09-2020 , 05:13",12.97032203,77.61042554,E,Level_0,None,Commissariat Road
+"06-09-2020 , 05:13",12.97038722,77.61039652,S,Level_0,None,Magrath Road
+"06-09-2020 , 05:13",12.97042176,77.61038111,S,Level_0,None,Magrath Road
+"06-09-2020 , 05:13",12.97045842,77.61037187,S,Level_0,None,Magrath Road
+"06-09-2020 , 05:13",12.97061317,77.61033604,S,Level_0,None,Commissariat Road
+"06-09-2020 , 05:13",12.97067597,77.61034472,S,Level_0,None,Commissariat Road
+"06-09-2020 , 05:13",12.97073395,77.61035806,S,Level_0,None,Commissariat Road
+"06-09-2020 , 05:13",12.97080009,77.61037011,S,Level_0,None,Commissariat Road
+"06-09-2020 , 05:12",12.97086154,77.61038188,S,Level_0,None,Commissariat Road
+"06-09-2020 , 05:12",12.97092535,77.61039379,S,Level_0,None,Commissariat Road
+"06-09-2020 , 05:12",12.97099316,77.61040589,S,Level_0,None,Commissariat Road
+"06-09-2020 , 05:12",12.97106365,77.61042152,S,Level_0,None,Commissariat Road
+"06-09-2020 , 05:12",12.97113107,77.61043169,S,Level_0,None,Commissariat Road
+"06-09-2020 , 05:12",12.97119959,77.61044656,S,Level_0,None,Commissariat Road
+"06-09-2020 , 05:12",12.97126646,77.61045885,S,Level_0,None,Commissariat Road
+"06-09-2020 , 05:12",12.97140188,77.610487,S,Level_0,None,Commissariat Road
+"06-09-2020 , 05:12",12.97147187,77.61049928,S,Level_0,None,Commissariat Road
+"06-09-2020 , 05:12",12.97153877,77.61051304,S,Level_0,None,Commissariat Road
+"06-09-2020 , 05:12",12.97159404,77.61052534,S,Level_0,None,Commissariat Road
+"06-09-2020 , 05:12",12.97163486,77.61053137,S,Level_0,None,Commissariat Road
+"06-09-2020 , 05:12",12.97170333,77.61054375,S,Level_0,None,Commissariat Road
+"06-09-2020 , 05:12",12.97176493,77.61055514,S,Level_0,None,Commissariat Road
+"06-09-2020 , 05:12",12.9718317,77.61057126,S,Level_0,None,Commissariat Road
+"06-09-2020 , 05:12",12.97189184,77.61058157,S,Level_0,None,Commissariat Road
+"06-09-2020 , 05:12",12.9719576,77.61059729,S,Level_0,None,Commissariat Road
+"06-09-2020 , 05:12",12.97202027,77.61061964,S,Level_0,None,Commissariat Road
+"06-09-2020 , 05:12",12.9720765,77.61063683,S,Level_0,None,Commissariat Road
+"06-09-2020 , 05:12",12.97213761,77.61065805,S,Level_0,None,Commissariat Road
+"06-09-2020 , 05:12",12.97236742,77.6107058,S,Level_0,None,Commissariat Road
+"06-09-2020 , 05:12",12.97245099,77.6107199,S,Level_0,None,Commissariat Road
+"06-09-2020 , 05:12",12.9725822,77.61077236,S,Level_0,None,Commissariat Road
+"06-09-2020 , 05:12",12.97264888,77.61079958,S,Level_0,None,Commissariat Road
+"06-09-2020 , 05:12",12.97271553,77.61081309,S,Level_0,None,Commissariat Road
+"06-09-2020 , 05:12",12.97278104,77.61082862,S,Level_0,None,Commissariat Road
+"06-09-2020 , 05:12",12.97291309,77.61086851,S,Level_0,None,Commissariat Road
+"06-09-2020 , 05:12",12.97297955,77.61088772,S,Level_0,None,Commissariat Road
+"06-09-2020 , 05:12",12.97303942,77.6108989,S,Level_0,None,#
+"06-09-2020 , 05:12",12.97309707,77.61090855,S,Level_0,None,#
+"06-09-2020 , 05:12",12.97315999,77.61091749,S,Level_0,None,#
+"06-09-2020 , 05:12",12.97324708,77.61093487,S,Level_0,None,Commissariat Road
+"06-09-2020 , 05:12",12.97329454,77.61094532,S,Level_0,None,Commissariat Road
+"06-09-2020 , 05:12",12.9733303,77.61093424,S,Level_0,None,Commissariat Road
+"06-09-2020 , 05:12",12.97341438,77.6109299,S,Level_0,None,Commissariat Road
+"06-09-2020 , 05:12",12.97348524,77.61089069,E,Level_0,None,Commissariat Road
+"06-09-2020 , 05:12",12.97350832,77.6108605,E,Level_0,None,Commissariat Road
+"06-09-2020 , 05:12",12.97353441,77.61082346,E,Level_0,None,Commissariat Road
+"06-09-2020 , 05:12",12.9735498,77.61077665,E,Level_0,None,Commissariat Road
+"06-09-2020 , 05:12",12.97352708,77.6106805,E,Level_0,None,Mayo Hall
+"06-09-2020 , 05:12",12.97348461,77.61050816,E,Level_0,None,Mayo Hall
+"06-09-2020 , 05:12",12.97347596,77.61044798,E,Level_0,None,Mayo Hall
+"06-09-2020 , 05:12",12.97347504,77.61038952,E,Level_0,None,FM Cariappa Road (Residency Road)
+"06-09-2020 , 05:12",12.97347704,77.6103336,E,Level_0,None,FM Cariappa Road (Residency Road)
+"06-09-2020 , 05:12",12.97346681,77.61027244,E,Level_0,None,Mayo Hall
+"06-09-2020 , 05:12",12.97345569,77.61021885,E,Level_0,None,Mayo Hall
+"06-09-2020 , 05:12",12.97339448,77.6100513,E,Level_0,None,FM Cariappa Road (Residency Road)
+"06-09-2020 , 05:11",12.97336639,77.60998712,E,Level_0,None,FM Cariappa Road (Residency Road)
+"06-09-2020 , 05:11",12.97334137,77.60991671,E,Level_0,None,FM Cariappa Road (Residency Road)
+"06-09-2020 , 05:11",12.97332265,77.60985903,E,Level_0,None,FM Cariappa Road (Residency Road)
+"06-09-2020 , 05:11",12.97330411,77.60979515,E,Level_0,None,FM Cariappa Road (Residency Road)
+"06-09-2020 , 05:11",12.97327984,77.60972167,E,Level_0,None,FM Cariappa Road (Residency Road)
+"06-09-2020 , 05:11",12.97324793,77.60964751,E,Level_0,None,FM Cariappa Road (Residency Road)
+"06-09-2020 , 05:11",12.97322399,77.60958618,E,Level_0,None,FM Cariappa Road (Residency Road)
+"06-09-2020 , 05:11",12.97320738,77.60951993,E,Level_0,None,FM Cariappa Road (Residency Road)
+"06-09-2020 , 05:11",12.97319217,77.6094601,E,Level_0,None,FM Cariappa Road (Residency Road)
+"06-09-2020 , 05:11",12.97316911,77.60939383,E,Level_0,None,Residency Cross Road
+"06-09-2020 , 05:11",12.97313663,77.60932484,E,Level_0,None,Residency Cross Road
+"06-09-2020 , 05:11",12.97307621,77.60919047,E,Level_0,None,Preethi Sagar
+"06-09-2020 , 05:11",12.9730454,77.60911967,E,Level_0,None,FM Cariappa Road (Residency Road)
+"06-09-2020 , 05:11",12.9730159,77.60905556,E,Level_0,None,FM Cariappa Road (Residency Road)
+"06-09-2020 , 05:11",12.9729855,77.6089908,E,Level_0,None,FM Cariappa Road (Residency Road)
+"06-09-2020 , 05:11",12.97294691,77.60892349,E,Level_0,None,FM Cariappa Road (Residency Road)
+"06-09-2020 , 05:11",12.97291537,77.60885558,E,Level_0,None,FM Cariappa Road (Residency Road)
+"06-09-2020 , 05:11",12.97289283,77.60878406,E,Level_0,None,Purple Haze
+"06-09-2020 , 05:11",12.97285723,77.60871562,E,Level_0,None,FM Cariappa Road (Residency Road)
+"06-09-2020 , 05:11",12.97282418,77.60864156,E,Level_0,None,FM Cariappa Road (Residency Road)
+"06-09-2020 , 05:11",12.97278162,77.60857259,E,Level_0,None,FM Cariappa Road (Residency Road)
+"06-09-2020 , 05:11",12.97274873,77.60849957,E,Level_0,None,FM Cariappa Road (Residency Road)
+"06-09-2020 , 05:11",12.97268151,77.60838222,E,Level_0,None,FM Cariappa Road (Residency Road)
+"06-09-2020 , 05:11",12.97265142,77.60832352,E,Level_0,None,FM Cariappa Road (Residency Road)
+"06-09-2020 , 05:11",12.97261965,77.60826399,E,Level_0,None,FM Cariappa Road (Residency Road)
+"06-09-2020 , 05:11",12.9725867,77.6082086,E,Level_0,None,FM Cariappa Road (Residency Road)
+"06-09-2020 , 05:11",12.97255324,77.60815693,E,Level_0,None,FM Cariappa Road (Residency Road)
+"06-09-2020 , 05:11",12.97251664,77.60809866,E,Level_0,None,FM Cariappa Road (Residency Road)
+"06-09-2020 , 05:11",12.97248601,77.60804776,E,Level_0,None,Pinto Towers
+"06-09-2020 , 05:11",12.97244672,77.60797907,E,Level_0,None,Pinto Towers
+"06-09-2020 , 05:11",12.97240834,77.60792731,E,Level_0,None,3rd Cross Road
+"06-09-2020 , 05:11",12.97237139,77.60787396,E,Level_0,None,3rd Cross Road
+"06-09-2020 , 05:11",12.97233713,77.60782213,E,Level_0,None,3rd Cross Road
+"06-09-2020 , 05:11",12.97230486,77.6077719,E,Level_0,None,FM Cariappa Road (Residency Road)
+"06-09-2020 , 05:11",12.97227469,77.6077268,E,Level_0,None,FM Cariappa Road (Residency Road)
+"06-09-2020 , 05:11",12.97224415,77.60768146,E,Level_0,None,FM Cariappa Road (Residency Road)
+"06-09-2020 , 05:11",12.97221764,77.60763736,E,Level_0,None,ColorPlus
+"06-09-2020 , 05:11",12.97218696,77.60758932,E,Level_0,None,FM Cariappa Road (Residency Road)
+"06-09-2020 , 05:11",12.97215779,77.60754243,E,Level_0,None,FM Cariappa Road (Residency Road)
+"06-09-2020 , 05:11",12.97212375,77.60749632,E,Level_0,None,FM Cariappa Road (Residency Road)
+"06-09-2020 , 05:11",12.97208529,77.60743969,E,Level_0,None,FM Cariappa Road (Residency Road)
+"06-09-2020 , 05:10",12.97323169,77.60744169,S,Level_0,None,Brigade Road
+"06-09-2020 , 05:10",12.97328052,77.60746097,S,Level_0,None,Brigade Road
+"06-09-2020 , 05:10",12.97334492,77.60751566,S,Level_0,None,Brigade Road
+"06-09-2020 , 05:10",12.97337657,77.60752591,S,Level_0,None,Brigade Road
+"06-09-2020 , 05:10",12.97341172,77.60753563,S,Level_0,None,Brigade Road
+"06-09-2020 , 05:10",12.97348573,77.60755716,S,Level_0,None,Brigade Road Cross
+"06-09-2020 , 05:10",12.97352516,77.60757581,S,Level_0,None,Brigade Road Cross
+"06-09-2020 , 05:10",12.97361953,77.60760513,S,Level_0,None,Brigade Road Cross
+"06-09-2020 , 05:10",12.97364791,77.60760994,S,Level_0,None,Brigade Road Cross
+"06-09-2020 , 05:10",12.97372427,77.60763096,S,Level_0,None,McDonald's
+"06-09-2020 , 05:10",12.97376267,77.60763348,S,Level_0,None,McDonald's
+"06-09-2020 , 05:10",12.97379222,77.60763908,S,Level_0,None,McDonald's
+"06-09-2020 , 05:10",12.97382318,77.60764121,S,Level_0,None,McDonald's
+"06-09-2020 , 05:10",12.97386187,77.60764597,S,Level_0,None,McDonald's
+"06-09-2020 , 05:10",12.97390331,77.60764864,S,Level_0,None,McDonald's
+"06-09-2020 , 05:10",12.97407172,77.60767875,S,Level_0,None,Brigade Road
+"06-09-2020 , 05:10",12.97411236,77.60768618,S,Level_0,None,Brigade Road
+"06-09-2020 , 05:10",12.97414074,77.60769115,S,Level_0,None,Brigade Road
+"06-09-2020 , 05:10",12.97419027,77.6076994,S,Level_0,None,Brigade Road
+"06-09-2020 , 05:10",12.97423271,77.60770381,S,Level_0,None,Brigade Road
+"06-09-2020 , 05:10",12.97427015,77.60771113,S,Level_0,None,Church Street
+"06-09-2020 , 05:10",12.97430808,77.60771807,S,Level_0,None,Church Street
+"06-09-2020 , 05:10",12.97434509,77.60772457,S,Level_0,None,Church Street
+"06-09-2020 , 05:10",12.97438289,77.60773129,S,Level_0,None,Church Street
+"06-09-2020 , 05:10",12.97441984,77.6077387,S,Level_0,None,Church Street
+"06-09-2020 , 05:10",12.97445356,77.60774701,S,Level_0,None,Church Street
+"06-09-2020 , 05:10",12.97448614,77.60775559,S,Level_0,None,Nike Showroom
+"06-09-2020 , 05:10",12.97452276,77.60776548,S,Level_0,None,Brigade Road
+"06-09-2020 , 05:10",12.97456401,77.60777556,S,Level_0,None,Brigade Road
+"06-09-2020 , 05:10",12.97460503,77.60778604,S,Level_0,None,Brigade Road
+"06-09-2020 , 05:10",12.97464172,77.60779647,S,Level_0,None,Brigade Road
+"06-09-2020 , 05:10",12.97467193,77.60780586,S,Level_0,None,Brigade Road
+"06-09-2020 , 05:09",12.97471374,77.6078208,S,Level_0,None,Brigade Road
+"06-09-2020 , 05:09",12.97477556,77.60785296,S,Level_0,None,Brigade Road
+"06-09-2020 , 05:09",12.97480268,77.60786709,S,Level_0,None,Brigade Road
+"06-09-2020 , 05:09",12.97483081,77.60788234,S,Level_0,None,Brigade Road
+"06-09-2020 , 05:09",12.97485871,77.60789686,S,Level_0,None,Cauvery Arts And Crafts Emporium
+"06-09-2020 , 05:09",12.9749158,77.60791995,S,Level_0,None,Brigade Road
+"06-09-2020 , 05:09",12.9749527,77.60792919,S,Level_0,None,Brigade Road
+"06-09-2020 , 05:09",12.97504592,77.6079316,S,Level_0,None,Brigade Road
+"06-09-2020 , 05:09",12.97508727,77.6078997,E,Level_0,None,Brigade Road
+"06-09-2020 , 05:09",12.97511243,77.60786881,E,Level_0,None,Brigade Road
+"06-09-2020 , 05:09",12.97513421,77.60784407,E,Level_0,None,Brigade Road
+"06-09-2020 , 05:09",12.97514478,77.6077993,E,Level_0,None,Namma Metro Reach-1
+"06-09-2020 , 05:09",12.97516715,77.60764762,E,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:09",12.97517268,77.60760181,E,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:09",12.97518713,77.60752322,E,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:09",12.97518085,77.60748541,E,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:09",12.97519611,77.60744309,E,Level_0,None,Mahatma Gandhi Road
+"06-09-2020 , 05:06",12.97753838,77.60745052,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:06",12.97751966,77.60752011,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:06",12.97749903,77.60759037,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:06",12.97747641,77.60765836,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:06",12.97745985,77.60772658,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:05",12.97744328,77.60780232,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:05",12.97741891,77.60787812,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:05",12.97739645,77.60795092,W,Level_0,None,Maniksha Parade Ground
+"06-09-2020 , 05:05",12.97736966,77.60801978,W,Level_0,None,Maniksha Parade Ground
+"06-09-2020 , 05:05",12.9773479,77.60808528,W,Level_0,None,Maniksha Parade Ground
+"06-09-2020 , 05:05",12.97732297,77.60815457,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:05",12.97730073,77.60822224,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:05",12.97725527,77.60834328,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:05",12.977241,77.60839736,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:05",12.97722355,77.60845609,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:05",12.97718744,77.60856161,W,Level_0,None,Kamaraj Road
+"06-09-2020 , 05:05",12.97717576,77.60860986,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:05",12.97712542,77.60876127,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:05",12.97711008,77.60880519,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:05",12.97710152,77.60884209,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:05",12.97708862,77.60888282,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:05",12.97707075,77.60891717,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:05",12.9770577,77.60895028,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:05",12.97700836,77.60909728,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:05",12.97699129,77.60915946,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:05",12.97694198,77.60929211,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:05",12.97691018,77.60936672,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:05",12.97685548,77.60951676,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:05",12.97683605,77.60959387,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:05",12.97681147,77.60967704,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:05",12.97678902,77.60975289,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:05",12.9767708,77.60982636,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:05",12.97674022,77.60990049,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:05",12.97671643,77.60997567,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:05",12.97669266,77.61005249,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:05",12.97667439,77.6101279,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:05",12.97664925,77.61020558,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:05",12.97662259,77.61027824,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:05",12.97659542,77.61035593,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:05",12.97656958,77.61043135,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:05",12.976545,77.61051115,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:05",12.97652373,77.61059034,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:05",12.97650577,77.61065862,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:05",12.97648534,77.61072652,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:05",12.97645624,77.61079541,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:05",12.97643722,77.61086224,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:05",12.9764018,77.61094235,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:05",12.97637282,77.61101695,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:05",12.97634074,77.61110207,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:05",12.9763091,77.61118001,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:05",12.9762764,77.61126734,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:05",12.97624985,77.61135004,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:05",12.97622747,77.61143388,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:05",12.97620094,77.61151091,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:05",12.97617803,77.61158654,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:04",12.97615481,77.61166114,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:04",12.97612907,77.61174047,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:04",12.97610064,77.61182173,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:04",12.97606633,77.61190587,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:04",12.97605324,77.61198972,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:04",12.97602878,77.61206756,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:04",12.97597979,77.61221498,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:04",12.9759575,77.6122915,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:04",12.97593232,77.61236711,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:04",12.97590451,77.61243462,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:04",12.97588165,77.61251115,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:04",12.97585427,77.61258731,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:04",12.97583551,77.61265774,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:04",12.97582001,77.61273183,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:04",12.97579964,77.61279294,W,Level_0,None,Manipal Center
+"06-09-2020 , 05:04",12.97578354,77.61286525,W,Level_0,None,Manipal Center
+"06-09-2020 , 05:04",12.97575645,77.61293717,W,Level_0,None,Manipal Center
+"06-09-2020 , 05:04",12.97573518,77.61301239,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:04",12.9757125,77.61307715,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:04",12.97568979,77.61314576,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:04",12.97566662,77.61321717,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:04",12.9756442,77.61328132,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:04",12.9756212,77.61334842,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:04",12.97558712,77.61340704,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:04",12.97556644,77.61347321,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:04",12.97554195,77.61354624,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:04",12.97551804,77.61360621,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:04",12.97549839,77.61366821,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:04",12.97547876,77.61373633,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:04",12.9754531,77.61378999,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:04",12.97543776,77.61384538,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:04",12.97541207,77.61390337,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:04",12.97538821,77.6139705,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:04",12.97535935,77.6140448,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:04",12.97533182,77.61411806,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:04",12.97531201,77.61417652,W,Level_0,None,Dickenson Road
+"06-09-2020 , 05:04",12.97529263,77.6142535,W,Level_0,None,Dickenson Road
+"06-09-2020 , 05:04",12.97528038,77.61429959,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:04",12.9752822,77.61433738,W,Level_0,None,Cubbon Road
+"06-09-2020 , 05:04",12.97529811,77.61436139,S,Level_0,None,Cubbon Road
+"06-09-2020 , 05:04",12.97531428,77.61438564,S,Level_0,None,Cubbon Road
+"06-09-2020 , 05:04",12.97533736,77.61436932,S,Level_0,None,Cubbon Road
+"06-09-2020 , 05:04",12.97535643,77.61433948,E,Level_0,None,Dickenson Road
+"06-09-2020 , 05:04",12.97537507,77.61431253,E,Level_0,None,Dickenson Road
+"06-09-2020 , 05:04",12.97539447,77.61428507,E,Level_0,None,Dickenson Road
+"06-09-2020 , 05:04",12.97541164,77.6142454,E,Level_0,None,Dickenson Road
+"06-09-2020 , 05:04",12.97543434,77.61419333,E,Level_0,None,Dickenson Road
+"06-09-2020 , 05:04",12.97544074,77.61414988,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:04",12.97545755,77.6141093,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:04",12.97546793,77.61406085,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:04",12.97547996,77.61401654,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:04",12.9754909,77.61395374,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:04",12.97550762,77.61389223,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:04",12.97552093,77.6138283,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:04",12.97554622,77.61378742,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:03",12.97555898,77.61375939,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:02",12.97557273,77.61373198,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:02",12.97558409,77.61370588,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:02",12.97560094,77.61365281,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:02",12.97562114,77.61359215,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:02",12.97564609,77.61353528,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:02",12.97566929,77.61348045,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:02",12.97568781,77.61341487,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:02",12.97571001,77.61334655,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:02",12.97573448,77.61327821,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:02",12.97575805,77.61320885,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:02",12.97578314,77.61313113,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:02",12.97580629,77.61305489,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:02",12.97582433,77.61298715,E,Level_0,None,Manipal Center
+"06-09-2020 , 05:02",12.97584471,77.61291221,E,Level_0,None,Manipal Center
+"06-09-2020 , 05:02",12.97587084,77.61283224,E,Level_0,None,Manipal Center
+"06-09-2020 , 05:02",12.97589727,77.61275327,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:02",12.97592542,77.61267315,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:02",12.97595572,77.61259804,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:02",12.97598256,77.61252312,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:02",12.97600507,77.6124451,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:02",12.97603266,77.61236824,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:02",12.9760565,77.61228212,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:02",12.97608269,77.61220056,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:02",12.97610901,77.61213119,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:02",12.9761319,77.61205558,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:02",12.97615696,77.61198051,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:02",12.97618117,77.611908,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:02",12.97620477,77.61183183,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:02",12.97623131,77.61175338,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:02",12.97625784,77.61168378,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:02",12.97628474,77.61160828,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:02",12.97631421,77.61153773,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:02",12.97634408,77.61146063,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:02",12.97637212,77.61138696,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:02",12.97639901,77.61131443,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:02",12.97642526,77.61123196,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:02",12.97645162,77.61114797,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:02",12.97647834,77.61106724,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:02",12.97650835,77.61098379,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:02",12.97653283,77.61090599,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:02",12.97655256,77.61081071,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:02",12.97658249,77.61071991,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:02",12.97660953,77.61065666,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:02",12.97666257,77.61049858,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:02",12.97668826,77.61041251,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:02",12.97671538,77.61032649,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:02",12.97674118,77.61024254,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:02",12.97677046,77.61016119,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:02",12.97680015,77.6100771,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:02",12.97682656,77.60998813,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:02",12.97684748,77.60991462,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:02",12.976875,77.60983072,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:02",12.9769014,77.60975442,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:02",12.97692992,77.60967468,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:02",12.97695648,77.60959697,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:01",12.97703014,77.60936222,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:01",12.97705443,77.60928635,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:01",12.97707875,77.60921479,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:01",12.97710211,77.60914274,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:01",12.97712411,77.60907624,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:01",12.97715626,77.60895072,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:01",12.97717515,77.60889555,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:01",12.97719186,77.60884437,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:01",12.97720679,77.60880042,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:01",12.97721523,77.60875726,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:01",12.97722727,77.60871837,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:01",12.97725275,77.60863307,E,Level_0,None,Kamaraj Road
+"06-09-2020 , 05:01",12.97726428,77.60859051,E,Level_0,None,Kamaraj Road
+"06-09-2020 , 05:01",12.97727631,77.60854438,E,Level_0,None,Kamaraj Road
+"06-09-2020 , 05:01",12.97729528,77.60849616,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:01",12.97730713,77.60845665,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:01",12.97731775,77.60842535,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:01",12.9773307,77.60839949,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:01",12.97734859,77.60834733,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:01",12.97736661,77.60831722,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:01",12.97738116,77.60828448,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:01",12.97739658,77.60824397,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:01",12.97741574,77.60819693,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:01",12.97742776,77.60816348,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:01",12.97744439,77.60811471,E,Level_0,None,Maniksha Parade Ground
+"06-09-2020 , 05:01",12.97746509,77.60805849,E,Level_0,None,Maniksha Parade Ground
+"06-09-2020 , 05:01",12.97748666,77.60799595,E,Level_0,None,Maniksha Parade Ground
+"06-09-2020 , 05:01",12.97750815,77.6079338,E,Level_0,None,Maniksha Parade Ground
+"06-09-2020 , 05:01",12.97753143,77.60785997,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:01",12.97755466,77.6077869,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:01",12.97757936,77.60771233,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:01",12.97760623,77.60763704,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:01",12.97763206,77.60756428,E,Level_0,None,Cubbon Road
+"06-09-2020 , 05:01",12.97765888,77.60749051,E,Level_0,None,Cubbon Road
