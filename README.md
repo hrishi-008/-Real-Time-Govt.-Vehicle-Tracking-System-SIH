@@ -8,7 +8,7 @@ This repository houses the Real-Time Government Vehicle Tracking System develope
 
 ### 1. Database
 
-- **data.csv:** This file contains open-sourced data of Bengaluru buses, serving as the foundation for building the Himachal State Road Transport Corporation (HSRTC) system.
+- **database-data.csv:** This file contains open-sourced data of Bengaluru buses, serving as the foundation for building the Himachal State Road Transport Corporation (HSRTC) system.
 
 ### 2. Web Application
 
